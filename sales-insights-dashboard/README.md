@@ -1,18 +1,36 @@
-# Sales Insights Dashboard (Academic Simulation Project)
+# 📊 Sales Insights Dashboard (Excel + Power BI)
 
-## Objective
-Simulate product and region-wise sales data and visualize key insights using Power BI & Excel.
+This project analyzes simulated e-commerce sales data using Excel and Power BI. It focuses on identifying sales performance by region, product, and category — with KPI cards, trends, and actionable product insights.
 
-## Tools Used
+---
+
+## 🚀 Tools Used
 - Microsoft Excel
-- Power BI
+- Power BI Desktop
+- Pivot Tables, Slicers, Charts, DAX
 
-## Approach
-- Created synthetic sales data (date, product category, region, quantity, revenue)
-- Built dashboard with slicers, KPI cards, trend charts
-- Highlighted monthly and regional sales fluctuations
+---
 
-## Sample Insights
-- Region C underperformed consistently
-- Product B showed high month-over-month variance
+## 📈 Key Features
+- 💰 KPI Cards: Total Revenue, Units Sold
+- 🗺️ Region-wise Revenue Breakdown
+- 📅 Monthly Revenue Trend Line
+- 🟢 Top 5 Products by Revenue (Horizontal Bar)
+- 🟠 Low Performing Products (Vertical Bar)
+- 🔘 Slicers: Region, Product, Category
 
+---
+
+## 💼 Use Case
+Helps managers and analysts monitor sales performance, identify best/worst-performing products, and make data-backed decisions using interactive visuals.
+
+---
+
+## 📸 Dashboard Screenshot
+## 📸 Dashboard Screenshots
+
+### Excel Version
+[Excel Dashboard](excel_dashboard_screenshot.png)
+
+### Power BI Version
+[Power BI Dashboard](powerbi_dashboard_screenshot.png)
