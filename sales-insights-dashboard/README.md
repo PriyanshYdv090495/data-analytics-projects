@@ -30,7 +30,8 @@ Helps managers and analysts monitor sales performance, identify best/worst-perfo
 ## 📸 Dashboard Screenshots
 
 ### Excel Version
-[Excel Dashboard](excel_dashboard_screenshot.png)
+![Excel Dashboard](excel_dashboard_screenshot.png)
 
 ### Power BI Version
-[Power BI Dashboard](powerbi_dashboard_screenshot.png)
+![Power BI Dashboard](powerbi_dashboard_screenshot.png)
+
