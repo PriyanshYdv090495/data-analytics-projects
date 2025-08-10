@@ -1,0 +1,3544 @@
+user_id,session_id,page,time_spent_seconds,converted
+1,1,Homepage,130,0
+1,1,Cart,119,0
+1,2,Homepage,221,0
+1,2,Cart,21,0
+1,2,Thank You,20,1
+1,3,Product Page,263,0
+1,3,Thank You,18,1
+2,4,Homepage,234,0
+2,4,Checkout,147,0
+2,4,Thank You,8,1
+2,5,Product Page,84,0
+2,5,Cart,115,0
+2,5,Checkout,177,0
+2,6,Homepage,54,0
+2,6,Checkout,188,0
+3,7,Homepage,198,0
+3,7,Cart,45,0
+3,7,Checkout,287,0
+3,7,Thank You,155,1
+3,8,Homepage,28,0
+3,8,Product Page,121,0
+3,8,Cart,153,0
+3,8,Thank You,45,1
+4,9,Cart,237,0
+4,9,Checkout,191,0
+5,10,Product Page,41,0
+5,10,Cart,92,0
+5,10,Checkout,278,0
+5,10,Thank You,130,1
+6,11,Homepage,33,0
+6,11,Product Page,122,0
+6,11,Cart,21,0
+6,11,Checkout,166,0
+6,11,Thank You,210,1
+7,12,Product Page,113,0
+7,12,Cart,260,0
+7,13,Homepage,292,0
+7,13,Product Page,280,0
+7,13,Cart,139,0
+7,13,Checkout,224,0
+7,13,Thank You,209,1
+8,14,Homepage,29,0
+8,14,Product Page,61,0
+8,14,Checkout,83,0
+8,15,Homepage,200,0
+8,15,Product Page,244,0
+8,15,Checkout,275,0
+9,16,Homepage,179,0
+9,16,Cart,62,0
+9,17,Homepage,139,0
+9,17,Product Page,261,0
+9,17,Checkout,96,0
+9,17,Thank You,264,1
+10,18,Homepage,87,0
+10,18,Product Page,281,0
+10,18,Checkout,276,0
+10,18,Thank You,5,1
+11,19,Homepage,162,0
+11,19,Product Page,127,0
+11,19,Checkout,34,0
+11,19,Thank You,128,1
+11,20,Homepage,40,0
+11,20,Checkout,277,0
+11,21,Product Page,89,0
+11,21,Cart,140,0
+11,21,Checkout,275,0
+12,22,Homepage,196,0
+12,22,Product Page,229,0
+12,22,Cart,269,0
+12,22,Checkout,236,0
+12,22,Thank You,66,1
+12,23,Homepage,15,0
+12,23,Product Page,288,0
+12,23,Thank You,122,1
+12,24,Homepage,35,0
+12,24,Cart,122,0
+12,24,Thank You,39,1
+13,25,Homepage,114,0
+13,25,Product Page,281,0
+13,25,Cart,72,0
+13,25,Checkout,297,0
+14,26,Homepage,54,0
+14,26,Product Page,225,0
+14,26,Cart,186,0
+14,26,Checkout,221,0
+14,26,Thank You,215,1
+14,27,Homepage,60,0
+14,27,Product Page,132,0
+14,27,Cart,103,0
+14,27,Checkout,102,0
+14,27,Thank You,279,1
+14,28,Homepage,132,0
+14,28,Product Page,43,0
+14,28,Cart,231,0
+14,28,Checkout,286,0
+14,28,Thank You,55,1
+15,29,Homepage,90,0
+15,29,Product Page,213,0
+16,30,Homepage,6,0
+16,30,Product Page,204,0
+16,30,Cart,140,0
+16,30,Checkout,237,0
+16,30,Thank You,151,1
+16,31,Homepage,116,0
+16,31,Product Page,34,0
+16,31,Cart,282,0
+16,31,Checkout,36,0
+16,31,Thank You,165,1
+17,32,Checkout,262,0
+17,32,Thank You,276,1
+18,33,Homepage,100,0
+18,33,Thank You,40,1
+19,34,Product Page,66,0
+19,34,Checkout,296,0
+19,35,Homepage,46,0
+19,35,Cart,219,0
+19,35,Thank You,294,1
+19,36,Product Page,127,0
+19,36,Cart,140,0
+19,36,Checkout,207,0
+19,36,Thank You,72,1
+20,37,Homepage,239,0
+20,37,Cart,293,0
+20,37,Checkout,56,0
+20,37,Thank You,42,1
+20,38,Homepage,183,0
+20,38,Cart,40,0
+20,38,Thank You,130,1
+20,39,Product Page,275,0
+20,39,Cart,9,0
+20,39,Checkout,288,0
+20,39,Thank You,158,1
+21,40,Product Page,64,0
+21,40,Cart,59,0
+21,41,Cart,112,0
+21,41,Checkout,180,0
+21,41,Thank You,109,1
+21,42,Homepage,52,0
+21,42,Product Page,221,0
+21,42,Checkout,146,0
+21,42,Thank You,27,1
+22,43,Homepage,287,0
+22,43,Product Page,223,0
+22,43,Cart,292,0
+22,43,Thank You,9,1
+23,44,Homepage,194,0
+23,44,Product Page,287,0
+24,45,Homepage,188,0
+24,45,Product Page,112,0
+24,45,Cart,132,0
+24,45,Checkout,57,0
+24,45,Thank You,186,1
+25,46,Homepage,216,0
+25,46,Product Page,17,0
+25,46,Cart,96,0
+25,46,Checkout,175,0
+25,46,Thank You,215,1
+25,47,Product Page,60,0
+25,47,Cart,200,0
+25,47,Thank You,24,1
+25,48,Homepage,121,0
+25,48,Product Page,119,0
+25,48,Cart,17,0
+25,48,Checkout,103,0
+25,48,Thank You,209,1
+26,49,Homepage,279,0
+26,49,Product Page,174,0
+26,49,Cart,19,0
+26,49,Checkout,64,0
+26,50,Homepage,227,0
+26,50,Product Page,181,0
+26,50,Cart,165,0
+26,50,Checkout,228,0
+27,51,Product Page,135,0
+27,51,Checkout,27,0
+27,52,Homepage,174,0
+27,52,Product Page,165,0
+27,52,Cart,68,0
+27,52,Checkout,158,0
+27,52,Thank You,264,1
+27,53,Product Page,288,0
+27,53,Cart,70,0
+27,53,Checkout,103,0
+27,53,Thank You,220,1
+28,54,Homepage,151,0
+28,54,Product Page,112,0
+28,54,Cart,225,0
+28,54,Checkout,169,0
+28,54,Thank You,243,1
+28,55,Homepage,48,0
+28,55,Product Page,150,0
+28,55,Cart,268,0
+28,55,Checkout,176,0
+28,55,Thank You,52,1
+28,56,Homepage,80,0
+28,56,Product Page,17,0
+28,56,Cart,28,0
+29,57,Homepage,201,0
+29,57,Product Page,258,0
+29,57,Cart,209,0
+29,57,Checkout,129,0
+29,57,Thank You,80,1
+30,58,Homepage,117,0
+30,58,Checkout,95,0
+30,59,Homepage,242,0
+30,59,Product Page,276,0
+30,59,Cart,291,0
+30,59,Checkout,167,0
+30,59,Thank You,231,1
+30,60,Homepage,137,0
+30,60,Product Page,131,0
+30,60,Cart,146,0
+30,60,Checkout,271,0
+30,60,Thank You,253,1
+31,61,Homepage,151,0
+31,61,Cart,125,0
+31,61,Checkout,144,0
+31,62,Homepage,123,0
+31,62,Cart,201,0
+31,62,Checkout,83,0
+31,62,Thank You,114,1
+31,63,Checkout,174,0
+31,63,Thank You,282,1
+32,64,Homepage,299,0
+32,64,Product Page,199,0
+32,64,Cart,249,0
+32,64,Checkout,8,0
+32,64,Thank You,185,1
+32,65,Homepage,254,0
+32,65,Cart,117,0
+32,65,Checkout,144,0
+32,65,Thank You,228,1
+33,66,Cart,212,0
+33,66,Checkout,89,0
+33,67,Homepage,224,0
+33,67,Product Page,74,0
+33,67,Cart,241,0
+33,67,Checkout,98,0
+33,67,Thank You,30,1
+34,68,Homepage,199,0
+34,68,Product Page,147,0
+34,68,Cart,220,0
+34,68,Checkout,134,0
+34,68,Thank You,46,1
+34,69,Homepage,25,0
+34,69,Product Page,20,0
+34,69,Cart,131,0
+34,69,Checkout,107,0
+34,69,Thank You,15,1
+35,70,Product Page,63,0
+35,70,Checkout,293,0
+35,70,Thank You,116,1
+35,71,Homepage,164,0
+35,71,Product Page,60,0
+35,71,Cart,18,0
+35,71,Checkout,164,0
+35,71,Thank You,299,1
+35,72,Homepage,159,0
+35,72,Product Page,66,0
+35,72,Cart,294,0
+35,72,Checkout,26,0
+35,72,Thank You,182,1
+36,73,Homepage,220,0
+36,73,Product Page,255,0
+36,73,Cart,59,0
+36,73,Checkout,226,0
+36,73,Thank You,190,1
+36,74,Homepage,243,0
+36,74,Product Page,228,0
+36,74,Cart,142,0
+36,74,Checkout,170,0
+36,74,Thank You,130,1
+36,75,Cart,129,0
+36,75,Checkout,242,0
+37,76,Homepage,254,0
+37,76,Product Page,113,0
+37,76,Cart,186,0
+37,76,Checkout,137,0
+37,76,Thank You,179,1
+37,77,Homepage,269,0
+37,77,Cart,102,0
+37,77,Checkout,48,0
+37,77,Thank You,128,1
+37,78,Homepage,234,0
+37,78,Product Page,13,0
+37,78,Cart,52,0
+37,78,Checkout,155,0
+37,78,Thank You,118,1
+38,79,Product Page,288,0
+38,79,Cart,276,0
+38,79,Thank You,181,1
+38,80,Homepage,161,0
+38,80,Product Page,133,0
+38,80,Cart,123,0
+38,80,Checkout,66,0
+38,80,Thank You,103,1
+39,81,Product Page,103,0
+39,81,Thank You,115,1
+39,82,Homepage,121,0
+39,82,Product Page,189,0
+39,82,Cart,96,0
+39,82,Checkout,159,0
+39,82,Thank You,12,1
+40,83,Homepage,288,0
+40,83,Cart,154,0
+40,83,Checkout,69,0
+40,84,Homepage,250,0
+40,84,Product Page,230,0
+40,84,Cart,179,0
+40,84,Checkout,99,0
+40,84,Thank You,31,1
+40,85,Homepage,256,0
+40,85,Product Page,42,0
+40,85,Checkout,300,0
+40,85,Thank You,32,1
+41,86,Homepage,132,0
+41,86,Cart,65,0
+41,86,Thank You,290,1
+42,87,Product Page,231,0
+42,87,Checkout,157,0
+42,87,Thank You,224,1
+42,88,Homepage,111,0
+42,88,Cart,113,0
+42,88,Checkout,140,0
+42,88,Thank You,46,1
+43,89,Homepage,6,0
+43,89,Product Page,214,0
+43,89,Checkout,235,0
+44,90,Homepage,237,0
+44,90,Product Page,41,0
+44,90,Cart,124,0
+44,90,Checkout,140,0
+44,90,Thank You,106,1
+44,91,Homepage,77,0
+44,91,Product Page,41,0
+44,91,Cart,35,0
+44,91,Checkout,89,0
+44,91,Thank You,162,1
+44,92,Homepage,211,0
+44,92,Product Page,144,0
+44,92,Cart,261,0
+44,92,Checkout,281,0
+45,93,Homepage,18,0
+45,93,Product Page,51,0
+45,93,Cart,122,0
+45,93,Checkout,299,0
+45,93,Thank You,15,1
+45,94,Homepage,270,0
+45,94,Product Page,231,0
+45,94,Checkout,147,0
+45,94,Thank You,97,1
+46,95,Homepage,175,0
+46,95,Product Page,169,0
+46,95,Cart,58,0
+46,95,Checkout,87,0
+46,95,Thank You,173,1
+46,96,Homepage,237,0
+46,96,Product Page,50,0
+46,96,Cart,166,0
+46,96,Checkout,134,0
+46,96,Thank You,170,1
+46,97,Homepage,282,0
+46,97,Checkout,241,0
+47,98,Product Page,260,0
+47,98,Cart,231,0
+47,99,Product Page,286,0
+47,99,Cart,72,0
+48,100,Homepage,164,0
+48,100,Product Page,287,0
+48,100,Cart,12,0
+48,100,Checkout,287,0
+48,100,Thank You,213,1
+48,101,Homepage,241,0
+48,101,Product Page,65,0
+49,102,Cart,144,0
+49,102,Checkout,217,0
+49,102,Thank You,252,1
+49,103,Homepage,102,0
+49,103,Product Page,265,0
+49,103,Cart,74,0
+49,103,Checkout,40,0
+49,103,Thank You,146,1
+49,104,Homepage,255,0
+49,104,Product Page,81,0
+49,104,Cart,233,0
+49,104,Checkout,280,0
+49,104,Thank You,252,1
+50,105,Product Page,101,0
+50,105,Cart,127,0
+50,105,Checkout,297,0
+50,105,Thank You,201,1
+50,106,Homepage,247,0
+50,106,Product Page,200,0
+50,106,Checkout,202,0
+51,107,Homepage,262,0
+51,107,Checkout,174,0
+51,107,Thank You,56,1
+51,108,Homepage,84,0
+51,108,Product Page,43,0
+51,108,Cart,245,0
+51,108,Checkout,140,0
+51,108,Thank You,178,1
+51,109,Homepage,254,0
+51,109,Product Page,282,0
+51,109,Cart,23,0
+51,109,Checkout,40,0
+51,109,Thank You,125,1
+52,110,Homepage,56,0
+52,110,Product Page,232,0
+52,110,Checkout,90,0
+52,110,Thank You,158,1
+52,111,Homepage,33,0
+52,111,Cart,155,0
+52,112,Homepage,276,0
+52,112,Cart,215,0
+52,112,Checkout,294,0
+52,112,Thank You,97,1
+53,113,Homepage,128,0
+53,113,Cart,259,0
+53,113,Checkout,78,0
+54,114,Homepage,152,0
+54,114,Product Page,284,0
+54,114,Cart,85,0
+54,114,Checkout,42,0
+54,114,Thank You,231,1
+55,115,Product Page,106,0
+55,115,Cart,201,0
+55,115,Checkout,252,0
+55,115,Thank You,59,1
+55,116,Cart,156,0
+55,116,Checkout,156,0
+55,116,Thank You,16,1
+56,117,Homepage,151,0
+56,117,Product Page,122,0
+56,117,Cart,185,0
+56,117,Checkout,117,0
+56,117,Thank You,102,1
+56,118,Homepage,163,0
+56,118,Product Page,230,0
+56,118,Cart,22,0
+56,118,Checkout,191,0
+56,119,Homepage,217,0
+56,119,Product Page,94,0
+56,119,Cart,107,0
+57,120,Homepage,251,0
+57,120,Product Page,156,0
+57,120,Cart,178,0
+57,120,Thank You,63,1
+58,121,Product Page,208,0
+58,121,Thank You,290,1
+58,122,Homepage,279,0
+58,122,Product Page,68,0
+58,122,Checkout,237,0
+58,122,Thank You,193,1
+59,123,Product Page,60,0
+59,123,Cart,124,0
+59,123,Checkout,246,0
+59,123,Thank You,17,1
+59,124,Homepage,242,0
+59,124,Product Page,159,0
+59,124,Cart,214,0
+59,124,Thank You,64,1
+59,125,Homepage,257,0
+59,125,Product Page,64,0
+59,125,Thank You,54,1
+60,126,Product Page,281,0
+60,126,Checkout,219,0
+60,126,Thank You,84,1
+61,127,Checkout,148,0
+61,127,Thank You,21,1
+61,128,Homepage,190,0
+61,128,Product Page,55,0
+61,128,Checkout,193,0
+61,128,Thank You,283,1
+62,129,Homepage,67,0
+62,129,Product Page,237,0
+62,129,Checkout,51,0
+62,129,Thank You,113,1
+62,130,Homepage,129,0
+62,130,Cart,69,0
+62,131,Homepage,115,0
+62,131,Product Page,124,0
+62,131,Cart,173,0
+63,132,Product Page,71,0
+63,132,Cart,281,0
+64,133,Homepage,12,0
+64,133,Checkout,188,0
+64,133,Thank You,126,1
+64,134,Homepage,69,0
+64,134,Product Page,220,0
+64,134,Checkout,274,0
+64,134,Thank You,63,1
+65,135,Checkout,190,0
+65,135,Thank You,267,1
+65,136,Product Page,27,0
+65,136,Checkout,271,0
+65,137,Homepage,210,0
+65,137,Product Page,223,0
+65,137,Checkout,60,0
+65,137,Thank You,256,1
+66,138,Homepage,69,0
+66,138,Product Page,145,0
+66,138,Cart,285,0
+66,138,Checkout,171,0
+66,138,Thank You,200,1
+66,139,Homepage,287,0
+66,139,Cart,115,0
+66,139,Checkout,225,0
+66,139,Thank You,236,1
+66,140,Product Page,209,0
+66,140,Cart,217,0
+66,140,Checkout,53,0
+67,141,Homepage,39,0
+67,141,Product Page,51,0
+67,141,Cart,48,0
+67,141,Checkout,52,0
+67,141,Thank You,226,1
+67,142,Product Page,289,0
+67,142,Cart,35,0
+68,143,Homepage,31,0
+68,143,Product Page,152,0
+68,143,Cart,164,0
+68,143,Checkout,185,0
+68,144,Product Page,84,0
+68,144,Thank You,251,1
+68,145,Homepage,193,0
+68,145,Cart,63,0
+68,145,Checkout,147,0
+69,146,Homepage,141,0
+69,146,Cart,19,0
+69,146,Checkout,97,0
+69,147,Homepage,97,0
+69,147,Product Page,78,0
+69,147,Cart,294,0
+69,147,Thank You,210,1
+69,148,Homepage,51,0
+69,148,Product Page,276,0
+70,149,Homepage,164,0
+70,149,Product Page,171,0
+70,149,Cart,295,0
+70,149,Checkout,48,0
+70,149,Thank You,31,1
+71,150,Homepage,46,0
+71,150,Cart,144,0
+71,150,Thank You,231,1
+72,151,Homepage,267,0
+72,151,Product Page,63,0
+72,151,Cart,181,0
+72,151,Checkout,225,0
+72,151,Thank You,61,1
+72,152,Product Page,28,0
+72,152,Cart,117,0
+72,152,Checkout,207,0
+72,152,Thank You,33,1
+72,153,Product Page,113,0
+72,153,Cart,75,0
+73,154,Homepage,225,0
+73,154,Product Page,94,0
+73,154,Cart,71,0
+73,154,Checkout,199,0
+73,155,Homepage,208,0
+73,155,Cart,26,0
+73,155,Thank You,228,1
+74,156,Homepage,218,0
+74,156,Product Page,153,0
+74,156,Cart,63,0
+74,156,Checkout,212,0
+74,156,Thank You,15,1
+75,157,Cart,190,0
+75,157,Checkout,50,0
+75,157,Thank You,228,1
+75,158,Product Page,210,0
+75,158,Checkout,273,0
+76,159,Homepage,44,0
+76,159,Product Page,266,0
+76,159,Cart,63,0
+76,159,Checkout,276,0
+76,159,Thank You,266,1
+77,160,Homepage,79,0
+77,160,Product Page,136,0
+77,160,Cart,106,0
+77,160,Thank You,93,1
+78,161,Homepage,257,0
+78,161,Product Page,242,0
+78,161,Cart,293,0
+78,162,Homepage,230,0
+78,162,Product Page,39,0
+78,162,Cart,245,0
+78,162,Checkout,231,0
+78,162,Thank You,160,1
+78,163,Homepage,163,0
+78,163,Product Page,241,0
+78,163,Checkout,236,0
+78,163,Thank You,24,1
+79,164,Homepage,264,0
+79,164,Cart,201,0
+79,164,Checkout,241,0
+79,164,Thank You,288,1
+80,165,Product Page,169,0
+80,165,Checkout,248,0
+80,166,Homepage,180,0
+80,166,Checkout,48,0
+80,166,Thank You,263,1
+80,167,Homepage,229,0
+80,167,Product Page,229,0
+80,167,Cart,273,0
+81,168,Product Page,203,0
+81,168,Cart,214,0
+81,168,Thank You,178,1
+81,169,Homepage,173,0
+81,169,Cart,53,0
+81,170,Homepage,46,0
+81,170,Product Page,77,0
+81,170,Cart,184,0
+81,170,Checkout,163,0
+81,170,Thank You,205,1
+82,171,Cart,173,0
+82,171,Checkout,70,0
+83,172,Cart,14,0
+83,172,Checkout,190,0
+83,173,Product Page,103,0
+83,173,Cart,120,0
+83,173,Checkout,75,0
+83,173,Thank You,84,1
+83,174,Homepage,264,0
+83,174,Cart,281,0
+84,175,Product Page,197,0
+84,175,Cart,83,0
+84,176,Product Page,229,0
+84,176,Cart,27,0
+84,176,Thank You,215,1
+84,177,Product Page,234,0
+84,177,Cart,124,0
+84,177,Checkout,278,0
+84,177,Thank You,127,1
+85,178,Homepage,149,0
+85,178,Product Page,200,0
+85,178,Cart,262,0
+85,178,Checkout,275,0
+85,178,Thank You,219,1
+85,179,Product Page,31,0
+85,179,Checkout,251,0
+85,179,Thank You,195,1
+86,180,Homepage,150,0
+86,180,Thank You,47,1
+86,181,Cart,80,0
+86,181,Checkout,228,0
+86,181,Thank You,51,1
+86,182,Homepage,217,0
+86,182,Cart,32,0
+86,182,Checkout,207,0
+87,183,Homepage,119,0
+87,183,Product Page,19,0
+87,183,Checkout,168,0
+87,183,Thank You,55,1
+87,184,Homepage,246,0
+87,184,Product Page,76,0
+87,184,Checkout,245,0
+87,184,Thank You,234,1
+87,185,Homepage,136,0
+87,185,Thank You,115,1
+88,186,Homepage,29,0
+88,186,Product Page,127,0
+88,186,Cart,219,0
+88,186,Checkout,239,0
+88,186,Thank You,37,1
+89,187,Homepage,154,0
+89,187,Product Page,224,0
+89,187,Cart,5,0
+89,187,Checkout,185,0
+89,187,Thank You,128,1
+90,188,Homepage,274,0
+90,188,Product Page,283,0
+90,188,Cart,264,0
+90,188,Checkout,264,0
+90,188,Thank You,288,1
+90,189,Checkout,27,0
+90,189,Thank You,203,1
+90,190,Homepage,181,0
+90,190,Product Page,128,0
+90,190,Cart,58,0
+90,190,Checkout,175,0
+91,191,Cart,94,0
+91,191,Thank You,242,1
+92,192,Homepage,155,0
+92,192,Product Page,108,0
+92,192,Cart,27,0
+92,192,Checkout,107,0
+92,192,Thank You,26,1
+92,193,Product Page,134,0
+92,193,Cart,23,0
+92,193,Checkout,102,0
+92,193,Thank You,151,1
+92,194,Homepage,193,0
+92,194,Product Page,228,0
+92,194,Cart,209,0
+92,194,Thank You,230,1
+93,195,Product Page,193,0
+93,195,Cart,270,0
+93,195,Checkout,141,0
+93,195,Thank You,47,1
+93,196,Homepage,169,0
+93,196,Product Page,57,0
+93,196,Cart,45,0
+93,196,Checkout,172,0
+93,196,Thank You,156,1
+94,197,Homepage,233,0
+94,197,Product Page,26,0
+94,197,Cart,185,0
+94,197,Checkout,227,0
+94,197,Thank You,145,1
+94,198,Homepage,191,0
+94,198,Checkout,267,0
+95,199,Homepage,229,0
+95,199,Product Page,22,0
+95,199,Cart,69,0
+95,200,Product Page,190,0
+95,200,Cart,201,0
+95,201,Product Page,235,0
+95,201,Thank You,194,1
+96,202,Homepage,165,0
+96,202,Product Page,147,0
+96,202,Cart,132,0
+96,202,Checkout,63,0
+96,202,Thank You,18,1
+96,203,Cart,65,0
+96,203,Checkout,139,0
+96,203,Thank You,138,1
+97,204,Homepage,67,0
+97,204,Product Page,74,0
+97,204,Cart,42,0
+97,204,Checkout,236,0
+97,204,Thank You,93,1
+97,205,Homepage,286,0
+97,205,Product Page,282,0
+97,205,Cart,153,0
+97,205,Checkout,158,0
+97,205,Thank You,85,1
+97,206,Homepage,107,0
+97,206,Product Page,76,0
+97,206,Cart,126,0
+98,207,Cart,244,0
+98,207,Thank You,287,1
+98,208,Homepage,163,0
+98,208,Checkout,208,0
+98,208,Thank You,250,1
+99,209,Homepage,235,0
+99,209,Product Page,243,0
+99,209,Cart,269,0
+99,209,Checkout,181,0
+99,209,Thank You,70,1
+99,210,Product Page,33,0
+99,210,Cart,68,0
+99,210,Checkout,270,0
+99,211,Homepage,170,0
+99,211,Product Page,120,0
+99,211,Cart,182,0
+100,212,Homepage,69,0
+100,212,Product Page,160,0
+100,212,Cart,278,0
+100,212,Thank You,52,1
+100,213,Homepage,177,0
+100,213,Product Page,293,0
+100,213,Thank You,26,1
+100,214,Homepage,300,0
+100,214,Thank You,140,1
+101,215,Cart,20,0
+101,215,Checkout,259,0
+101,215,Thank You,284,1
+101,216,Homepage,157,0
+101,216,Product Page,237,0
+101,216,Cart,42,0
+101,216,Checkout,35,0
+101,217,Product Page,242,0
+101,217,Checkout,109,0
+101,217,Thank You,179,1
+102,218,Cart,181,0
+102,218,Checkout,209,0
+102,218,Thank You,71,1
+102,219,Homepage,243,0
+102,219,Product Page,67,0
+102,219,Checkout,141,0
+102,219,Thank You,235,1
+102,220,Homepage,153,0
+102,220,Product Page,201,0
+102,220,Checkout,219,0
+103,221,Homepage,86,0
+103,221,Cart,260,0
+103,221,Thank You,268,1
+104,222,Homepage,263,0
+104,222,Product Page,239,0
+104,222,Cart,128,0
+104,222,Checkout,115,0
+104,222,Thank You,185,1
+104,223,Homepage,258,0
+104,223,Cart,245,0
+105,224,Homepage,73,0
+105,224,Checkout,140,0
+105,225,Homepage,31,0
+105,225,Product Page,296,0
+105,225,Cart,292,0
+105,225,Checkout,104,0
+106,226,Homepage,286,0
+106,226,Product Page,148,0
+106,226,Cart,65,0
+106,226,Checkout,70,0
+106,227,Cart,178,0
+106,227,Checkout,290,0
+107,228,Product Page,25,0
+107,228,Cart,28,0
+107,228,Checkout,24,0
+107,229,Cart,238,0
+107,229,Checkout,81,0
+107,229,Thank You,268,1
+108,230,Homepage,158,0
+108,230,Product Page,177,0
+108,230,Cart,264,0
+108,230,Thank You,265,1
+109,231,Homepage,174,0
+109,231,Product Page,61,0
+109,231,Cart,218,0
+109,231,Checkout,162,0
+109,231,Thank You,18,1
+109,232,Homepage,92,0
+109,232,Product Page,273,0
+109,232,Cart,199,0
+109,232,Checkout,80,0
+109,232,Thank You,129,1
+109,233,Homepage,102,0
+109,233,Thank You,14,1
+110,234,Homepage,215,0
+110,234,Product Page,261,0
+110,234,Checkout,246,0
+110,234,Thank You,36,1
+110,235,Product Page,171,0
+110,235,Cart,249,0
+110,235,Thank You,274,1
+111,236,Product Page,284,0
+111,236,Cart,186,0
+111,236,Checkout,140,0
+111,236,Thank You,252,1
+111,237,Product Page,157,0
+111,237,Cart,120,0
+111,237,Checkout,157,0
+112,238,Product Page,183,0
+112,238,Cart,291,0
+112,238,Checkout,145,0
+112,239,Homepage,79,0
+112,239,Product Page,153,0
+112,239,Cart,26,0
+112,239,Checkout,152,0
+113,240,Cart,136,0
+113,240,Checkout,250,0
+113,241,Product Page,144,0
+113,241,Cart,75,0
+113,241,Checkout,60,0
+113,242,Homepage,276,0
+113,242,Product Page,120,0
+113,242,Cart,124,0
+114,243,Cart,246,0
+114,243,Checkout,56,0
+115,244,Homepage,248,0
+115,244,Product Page,249,0
+115,244,Checkout,107,0
+115,245,Homepage,50,0
+115,245,Cart,298,0
+115,245,Checkout,123,0
+115,245,Thank You,278,1
+115,246,Product Page,95,0
+115,246,Checkout,23,0
+116,247,Homepage,295,0
+116,247,Product Page,59,0
+116,247,Cart,176,0
+116,247,Checkout,150,0
+116,247,Thank You,237,1
+116,248,Homepage,174,0
+116,248,Product Page,88,0
+116,248,Cart,239,0
+116,248,Checkout,136,0
+116,248,Thank You,100,1
+117,249,Homepage,223,0
+117,249,Product Page,268,0
+117,249,Cart,172,0
+117,249,Checkout,49,0
+118,250,Product Page,249,0
+118,250,Thank You,170,1
+118,251,Homepage,125,0
+118,251,Product Page,233,0
+118,251,Cart,141,0
+119,252,Homepage,125,0
+119,252,Product Page,36,0
+119,252,Cart,65,0
+119,252,Thank You,243,1
+119,253,Product Page,65,0
+119,253,Cart,156,0
+119,253,Checkout,193,0
+119,253,Thank You,118,1
+120,254,Product Page,196,0
+120,254,Checkout,217,0
+120,254,Thank You,286,1
+121,255,Homepage,233,0
+121,255,Product Page,275,0
+121,255,Cart,190,0
+121,256,Homepage,36,0
+121,256,Thank You,285,1
+122,257,Homepage,172,0
+122,257,Product Page,271,0
+122,257,Thank You,231,1
+122,258,Product Page,51,0
+122,258,Checkout,266,0
+122,259,Homepage,293,0
+122,259,Product Page,34,0
+122,259,Cart,291,0
+122,259,Checkout,241,0
+122,259,Thank You,162,1
+123,260,Cart,6,0
+123,260,Checkout,116,0
+123,261,Homepage,181,0
+123,261,Checkout,37,0
+123,262,Homepage,21,0
+123,262,Checkout,151,0
+124,263,Product Page,200,0
+124,263,Checkout,234,0
+124,263,Thank You,198,1
+124,264,Homepage,96,0
+124,264,Product Page,280,0
+124,264,Cart,206,0
+124,264,Checkout,275,0
+124,264,Thank You,70,1
+125,265,Homepage,242,0
+125,265,Product Page,283,0
+125,265,Thank You,222,1
+125,266,Homepage,146,0
+125,266,Product Page,101,0
+125,266,Cart,62,0
+125,266,Checkout,21,0
+125,266,Thank You,219,1
+125,267,Product Page,39,0
+125,267,Thank You,56,1
+126,268,Homepage,130,0
+126,268,Checkout,27,0
+126,269,Homepage,76,0
+126,269,Product Page,262,0
+126,269,Cart,153,0
+126,269,Checkout,124,0
+126,269,Thank You,299,1
+126,270,Homepage,78,0
+126,270,Product Page,271,0
+126,270,Cart,118,0
+126,270,Thank You,216,1
+127,271,Homepage,289,0
+127,271,Product Page,258,0
+127,271,Cart,29,0
+127,271,Checkout,181,0
+127,272,Homepage,81,0
+127,272,Product Page,158,0
+127,272,Cart,197,0
+127,272,Checkout,99,0
+127,272,Thank You,280,1
+128,273,Product Page,78,0
+128,273,Cart,242,0
+128,273,Checkout,34,0
+128,274,Homepage,109,0
+128,274,Product Page,174,0
+128,274,Cart,45,0
+128,274,Checkout,235,0
+128,274,Thank You,194,1
+129,275,Homepage,25,0
+129,275,Product Page,42,0
+129,275,Cart,101,0
+130,276,Product Page,160,0
+130,276,Checkout,12,0
+130,276,Thank You,113,1
+130,277,Homepage,109,0
+130,277,Checkout,208,0
+130,277,Thank You,127,1
+130,278,Product Page,162,0
+130,278,Cart,138,0
+130,278,Checkout,189,0
+130,278,Thank You,267,1
+131,279,Homepage,165,0
+131,279,Product Page,216,0
+131,279,Cart,28,0
+131,279,Checkout,293,0
+131,279,Thank You,118,1
+131,280,Homepage,218,0
+131,280,Cart,156,0
+131,280,Checkout,83,0
+132,281,Homepage,260,0
+132,281,Product Page,286,0
+132,281,Cart,177,0
+132,281,Checkout,136,0
+133,282,Homepage,76,0
+133,282,Product Page,284,0
+133,282,Cart,255,0
+133,282,Checkout,99,0
+133,282,Thank You,282,1
+133,283,Homepage,43,0
+133,283,Thank You,29,1
+134,284,Homepage,116,0
+134,284,Product Page,263,0
+134,284,Cart,238,0
+134,284,Checkout,196,0
+134,284,Thank You,35,1
+135,285,Homepage,13,0
+135,285,Product Page,276,0
+135,285,Cart,145,0
+135,285,Checkout,279,0
+135,285,Thank You,151,1
+135,286,Checkout,96,0
+135,286,Thank You,59,1
+135,287,Product Page,128,0
+135,287,Thank You,103,1
+136,288,Homepage,196,0
+136,288,Product Page,212,0
+136,288,Cart,240,0
+136,288,Thank You,294,1
+136,289,Product Page,46,0
+136,289,Cart,21,0
+136,289,Checkout,52,0
+136,290,Homepage,9,0
+136,290,Product Page,92,0
+136,290,Cart,47,0
+136,290,Checkout,260,0
+136,290,Thank You,227,1
+137,291,Homepage,122,0
+137,291,Cart,113,0
+137,291,Checkout,295,0
+137,291,Thank You,248,1
+137,292,Homepage,283,0
+137,292,Product Page,293,0
+137,292,Cart,21,0
+137,292,Thank You,96,1
+137,293,Homepage,208,0
+137,293,Product Page,44,0
+137,293,Cart,158,0
+137,293,Thank You,88,1
+138,294,Cart,281,0
+138,294,Checkout,174,0
+138,294,Thank You,201,1
+138,295,Homepage,55,0
+138,295,Cart,228,0
+138,295,Thank You,123,1
+138,296,Cart,172,0
+138,296,Checkout,20,0
+139,297,Homepage,288,0
+139,297,Product Page,197,0
+139,297,Checkout,226,0
+139,297,Thank You,100,1
+139,298,Homepage,142,0
+139,298,Product Page,83,0
+139,298,Cart,199,0
+139,298,Checkout,83,0
+139,298,Thank You,204,1
+139,299,Homepage,162,0
+139,299,Cart,232,0
+139,299,Checkout,189,0
+139,299,Thank You,143,1
+140,300,Homepage,234,0
+140,300,Product Page,290,0
+140,300,Checkout,289,0
+141,301,Homepage,171,0
+141,301,Product Page,202,0
+141,301,Cart,11,0
+141,301,Checkout,154,0
+141,301,Thank You,216,1
+141,302,Homepage,91,0
+141,302,Product Page,76,0
+141,302,Cart,142,0
+141,302,Checkout,159,0
+141,302,Thank You,142,1
+141,303,Homepage,220,0
+141,303,Product Page,158,0
+141,303,Cart,252,0
+141,303,Checkout,44,0
+141,303,Thank You,189,1
+142,304,Product Page,59,0
+142,304,Checkout,74,0
+142,304,Thank You,160,1
+142,305,Cart,199,0
+142,305,Checkout,173,0
+143,306,Product Page,107,0
+143,306,Cart,250,0
+143,306,Checkout,165,0
+143,306,Thank You,95,1
+143,307,Homepage,171,0
+143,307,Product Page,197,0
+143,307,Cart,148,0
+143,307,Checkout,206,0
+143,307,Thank You,191,1
+144,308,Product Page,286,0
+144,308,Cart,18,0
+144,308,Thank You,241,1
+145,309,Cart,40,0
+145,309,Checkout,214,0
+145,309,Thank You,260,1
+145,310,Product Page,83,0
+145,310,Cart,221,0
+145,310,Checkout,198,0
+145,311,Checkout,210,0
+145,311,Thank You,278,1
+146,312,Homepage,132,0
+146,312,Product Page,186,0
+146,312,Cart,90,0
+146,312,Checkout,27,0
+146,312,Thank You,293,1
+146,313,Homepage,137,0
+146,313,Product Page,118,0
+146,313,Cart,266,0
+146,313,Checkout,270,0
+146,313,Thank You,290,1
+146,314,Product Page,242,0
+146,314,Cart,261,0
+146,314,Checkout,82,0
+147,315,Homepage,156,0
+147,315,Checkout,217,0
+147,316,Homepage,183,0
+147,316,Product Page,164,0
+148,317,Homepage,229,0
+148,317,Product Page,236,0
+148,317,Cart,168,0
+148,317,Checkout,39,0
+148,317,Thank You,158,1
+148,318,Homepage,180,0
+148,318,Thank You,60,1
+149,319,Product Page,86,0
+149,319,Cart,174,0
+149,319,Thank You,291,1
+149,320,Homepage,226,0
+149,320,Product Page,207,0
+149,320,Cart,19,0
+149,320,Checkout,106,0
+149,320,Thank You,235,1
+149,321,Homepage,147,0
+149,321,Product Page,37,0
+149,321,Cart,300,0
+149,321,Checkout,57,0
+149,321,Thank You,279,1
+150,322,Homepage,139,0
+150,322,Product Page,255,0
+150,322,Cart,275,0
+150,322,Checkout,165,0
+151,323,Homepage,185,0
+151,323,Product Page,239,0
+151,323,Cart,93,0
+151,323,Checkout,157,0
+151,323,Thank You,48,1
+151,324,Homepage,161,0
+151,324,Cart,64,0
+151,324,Checkout,98,0
+151,325,Homepage,299,0
+151,325,Product Page,201,0
+151,325,Checkout,221,0
+151,325,Thank You,100,1
+152,326,Product Page,152,0
+152,326,Checkout,76,0
+152,326,Thank You,100,1
+152,327,Homepage,253,0
+152,327,Product Page,74,0
+152,327,Checkout,104,0
+152,327,Thank You,201,1
+153,328,Homepage,90,0
+153,328,Product Page,47,0
+153,328,Cart,294,0
+153,328,Checkout,20,0
+153,328,Thank You,117,1
+153,329,Homepage,91,0
+153,329,Product Page,239,0
+153,329,Cart,294,0
+153,329,Thank You,258,1
+153,330,Homepage,142,0
+153,330,Thank You,283,1
+154,331,Product Page,222,0
+154,331,Checkout,57,0
+154,332,Homepage,139,0
+154,332,Product Page,183,0
+154,332,Cart,49,0
+155,333,Product Page,184,0
+155,333,Thank You,224,1
+155,334,Homepage,110,0
+155,334,Product Page,35,0
+155,334,Thank You,296,1
+156,335,Product Page,153,0
+156,335,Cart,298,0
+156,335,Checkout,141,0
+156,335,Thank You,268,1
+156,336,Product Page,35,0
+156,336,Checkout,146,0
+157,337,Homepage,169,0
+157,337,Product Page,131,0
+157,337,Thank You,206,1
+157,338,Homepage,236,0
+157,338,Product Page,43,0
+157,338,Cart,52,0
+157,338,Checkout,211,0
+157,338,Thank You,268,1
+157,339,Product Page,6,0
+157,339,Cart,52,0
+157,339,Checkout,239,0
+157,339,Thank You,188,1
+158,340,Homepage,170,0
+158,340,Product Page,150,0
+158,340,Cart,177,0
+158,340,Checkout,285,0
+158,340,Thank You,300,1
+159,341,Homepage,13,0
+159,341,Product Page,68,0
+159,341,Cart,85,0
+159,341,Checkout,230,0
+159,341,Thank You,238,1
+160,342,Homepage,145,0
+160,342,Product Page,52,0
+160,342,Cart,189,0
+160,342,Checkout,133,0
+160,342,Thank You,47,1
+161,343,Homepage,161,0
+161,343,Cart,124,0
+161,343,Checkout,224,0
+161,344,Homepage,114,0
+161,344,Thank You,249,1
+162,345,Product Page,232,0
+162,345,Cart,9,0
+162,345,Thank You,9,1
+163,346,Homepage,249,0
+163,346,Cart,41,0
+163,346,Checkout,122,0
+163,346,Thank You,201,1
+163,347,Homepage,165,0
+163,347,Thank You,193,1
+163,348,Homepage,40,0
+163,348,Product Page,276,0
+163,348,Cart,293,0
+163,348,Checkout,9,0
+164,349,Cart,114,0
+164,349,Checkout,82,0
+164,349,Thank You,215,1
+164,350,Homepage,201,0
+164,350,Product Page,184,0
+164,350,Cart,224,0
+164,350,Checkout,166,0
+164,350,Thank You,76,1
+164,351,Homepage,288,0
+164,351,Cart,150,0
+164,351,Checkout,18,0
+165,352,Product Page,156,0
+165,352,Cart,32,0
+165,352,Checkout,127,0
+165,352,Thank You,258,1
+165,353,Homepage,189,0
+165,353,Product Page,167,0
+165,353,Cart,72,0
+165,353,Checkout,203,0
+165,353,Thank You,296,1
+165,354,Homepage,39,0
+165,354,Product Page,12,0
+165,354,Cart,139,0
+165,354,Checkout,115,0
+165,354,Thank You,25,1
+166,355,Homepage,210,0
+166,355,Product Page,47,0
+166,355,Cart,279,0
+166,355,Checkout,280,0
+166,355,Thank You,83,1
+167,356,Homepage,266,0
+167,356,Cart,109,0
+167,357,Product Page,38,0
+167,357,Cart,163,0
+167,357,Thank You,228,1
+168,358,Homepage,227,0
+168,358,Product Page,64,0
+168,358,Thank You,237,1
+168,359,Product Page,66,0
+168,359,Cart,11,0
+168,360,Homepage,182,0
+168,360,Product Page,272,0
+168,360,Checkout,269,0
+169,361,Homepage,65,0
+169,361,Product Page,20,0
+169,361,Cart,176,0
+169,361,Thank You,224,1
+169,362,Homepage,259,0
+169,362,Product Page,238,0
+169,362,Checkout,266,0
+169,362,Thank You,189,1
+169,363,Product Page,193,0
+169,363,Checkout,85,0
+170,364,Homepage,121,0
+170,364,Thank You,265,1
+170,365,Homepage,130,0
+170,365,Thank You,28,1
+171,366,Homepage,288,0
+171,366,Product Page,219,0
+171,366,Cart,119,0
+171,366,Checkout,169,0
+171,367,Product Page,44,0
+171,367,Cart,297,0
+171,367,Checkout,195,0
+172,368,Product Page,269,0
+172,368,Thank You,28,1
+173,369,Cart,164,0
+173,369,Checkout,172,0
+173,370,Checkout,9,0
+173,370,Thank You,193,1
+174,371,Homepage,242,0
+174,371,Cart,193,0
+174,371,Checkout,257,0
+174,371,Thank You,105,1
+175,372,Homepage,17,0
+175,372,Product Page,124,0
+175,372,Thank You,282,1
+175,373,Homepage,162,0
+175,373,Product Page,58,0
+175,373,Cart,110,0
+175,373,Thank You,276,1
+175,374,Homepage,77,0
+175,374,Checkout,148,0
+175,374,Thank You,52,1
+176,375,Cart,195,0
+176,375,Checkout,239,0
+176,375,Thank You,48,1
+177,376,Product Page,206,0
+177,376,Thank You,43,1
+177,377,Product Page,126,0
+177,377,Checkout,154,0
+177,378,Product Page,167,0
+177,378,Cart,236,0
+177,378,Checkout,144,0
+177,378,Thank You,124,1
+178,379,Homepage,59,0
+178,379,Product Page,89,0
+178,379,Checkout,235,0
+179,380,Homepage,111,0
+179,380,Product Page,236,0
+179,380,Cart,162,0
+179,380,Checkout,242,0
+179,381,Homepage,25,0
+179,381,Product Page,115,0
+179,381,Checkout,172,0
+179,381,Thank You,80,1
+180,382,Cart,30,0
+180,382,Checkout,158,0
+180,382,Thank You,138,1
+181,383,Checkout,289,0
+181,383,Thank You,286,1
+182,384,Homepage,76,0
+182,384,Checkout,67,0
+183,385,Product Page,106,0
+183,385,Thank You,210,1
+184,386,Cart,43,0
+184,386,Thank You,16,1
+184,387,Product Page,70,0
+184,387,Checkout,52,0
+185,388,Homepage,30,0
+185,388,Checkout,91,0
+185,389,Homepage,93,0
+185,389,Product Page,186,0
+185,389,Cart,114,0
+185,389,Checkout,100,0
+185,389,Thank You,145,1
+186,390,Homepage,260,0
+186,390,Product Page,215,0
+186,390,Cart,286,0
+186,390,Checkout,250,0
+186,390,Thank You,36,1
+186,391,Cart,75,0
+186,391,Checkout,219,0
+187,392,Homepage,188,0
+187,392,Product Page,250,0
+187,392,Thank You,283,1
+188,393,Product Page,97,0
+188,393,Cart,18,0
+188,393,Checkout,168,0
+188,393,Thank You,117,1
+188,394,Homepage,246,0
+188,394,Cart,276,0
+189,395,Homepage,128,0
+189,395,Product Page,141,0
+189,395,Checkout,278,0
+189,396,Product Page,186,0
+189,396,Checkout,93,0
+190,397,Cart,188,0
+190,397,Checkout,19,0
+190,397,Thank You,185,1
+191,398,Product Page,282,0
+191,398,Checkout,163,0
+191,398,Thank You,94,1
+191,399,Homepage,15,0
+191,399,Product Page,274,0
+191,399,Cart,249,0
+191,399,Checkout,5,0
+191,399,Thank You,174,1
+191,400,Product Page,95,0
+191,400,Cart,170,0
+191,400,Checkout,35,0
+192,401,Homepage,274,0
+192,401,Product Page,191,0
+192,401,Thank You,42,1
+193,402,Homepage,74,0
+193,402,Product Page,85,0
+193,402,Cart,228,0
+193,402,Checkout,254,0
+193,402,Thank You,167,1
+193,403,Homepage,94,0
+193,403,Cart,198,0
+193,403,Thank You,162,1
+194,404,Homepage,298,0
+194,404,Product Page,205,0
+194,404,Cart,295,0
+194,404,Thank You,21,1
+194,405,Cart,118,0
+194,405,Checkout,294,0
+194,405,Thank You,58,1
+194,406,Homepage,182,0
+194,406,Product Page,168,0
+194,406,Cart,90,0
+194,406,Checkout,50,0
+194,406,Thank You,176,1
+195,407,Product Page,132,0
+195,407,Cart,39,0
+195,408,Homepage,29,0
+195,408,Cart,202,0
+195,408,Checkout,229,0
+195,408,Thank You,219,1
+196,409,Homepage,250,0
+196,409,Product Page,300,0
+196,409,Cart,120,0
+196,409,Checkout,88,0
+196,409,Thank You,236,1
+197,410,Homepage,168,0
+197,410,Cart,138,0
+198,411,Product Page,197,0
+198,411,Cart,87,0
+199,412,Homepage,178,0
+199,412,Thank You,252,1
+199,413,Product Page,227,0
+199,413,Checkout,85,0
+199,414,Homepage,110,0
+199,414,Cart,102,0
+200,415,Homepage,30,0
+200,415,Cart,206,0
+200,415,Checkout,297,0
+200,415,Thank You,286,1
+200,416,Homepage,49,0
+200,416,Product Page,155,0
+200,416,Cart,250,0
+200,416,Checkout,107,0
+200,416,Thank You,54,1
+201,417,Homepage,247,0
+201,417,Product Page,64,0
+201,417,Cart,162,0
+202,418,Homepage,194,0
+202,418,Product Page,200,0
+202,418,Cart,194,0
+202,418,Checkout,100,0
+202,418,Thank You,233,1
+202,419,Cart,243,0
+202,419,Checkout,139,0
+203,420,Homepage,48,0
+203,420,Cart,181,0
+203,420,Checkout,282,0
+203,420,Thank You,216,1
+204,421,Homepage,272,0
+204,421,Product Page,219,0
+204,421,Thank You,279,1
+204,422,Homepage,207,0
+204,422,Product Page,22,0
+204,422,Cart,262,0
+204,422,Checkout,297,0
+204,422,Thank You,269,1
+204,423,Homepage,90,0
+204,423,Checkout,113,0
+204,423,Thank You,103,1
+205,424,Homepage,227,0
+205,424,Checkout,108,0
+206,425,Product Page,39,0
+206,425,Cart,49,0
+206,425,Thank You,203,1
+206,426,Homepage,272,0
+206,426,Product Page,219,0
+206,426,Cart,62,0
+206,426,Checkout,217,0
+206,426,Thank You,81,1
+206,427,Homepage,293,0
+206,427,Checkout,56,0
+206,427,Thank You,151,1
+207,428,Product Page,297,0
+207,428,Cart,247,0
+207,428,Checkout,24,0
+207,428,Thank You,93,1
+207,429,Product Page,24,0
+207,429,Cart,207,0
+207,429,Checkout,174,0
+207,429,Thank You,126,1
+207,430,Cart,195,0
+207,430,Checkout,15,0
+208,431,Homepage,121,0
+208,431,Product Page,73,0
+208,431,Cart,158,0
+208,431,Thank You,231,1
+208,432,Homepage,101,0
+208,432,Cart,231,0
+208,432,Checkout,113,0
+208,432,Thank You,213,1
+209,433,Homepage,164,0
+209,433,Product Page,264,0
+209,433,Cart,211,0
+209,433,Checkout,74,0
+209,433,Thank You,273,1
+209,434,Product Page,107,0
+209,434,Thank You,34,1
+209,435,Homepage,189,0
+209,435,Checkout,106,0
+209,435,Thank You,145,1
+210,436,Homepage,128,0
+210,436,Product Page,195,0
+210,436,Cart,255,0
+210,436,Checkout,233,0
+210,436,Thank You,95,1
+210,437,Homepage,51,0
+210,437,Product Page,150,0
+210,437,Cart,19,0
+210,437,Checkout,202,0
+210,437,Thank You,30,1
+211,438,Product Page,110,0
+211,438,Cart,142,0
+211,438,Thank You,214,1
+212,439,Homepage,72,0
+212,439,Checkout,93,0
+212,440,Product Page,161,0
+212,440,Cart,145,0
+212,441,Homepage,243,0
+212,441,Product Page,159,0
+212,441,Cart,271,0
+212,441,Checkout,208,0
+212,441,Thank You,57,1
+213,442,Homepage,251,0
+213,442,Product Page,37,0
+213,442,Cart,177,0
+213,442,Thank You,146,1
+214,443,Product Page,101,0
+214,443,Cart,81,0
+214,443,Checkout,269,0
+214,443,Thank You,128,1
+214,444,Checkout,168,0
+214,444,Thank You,76,1
+214,445,Cart,137,0
+214,445,Checkout,219,0
+215,446,Homepage,188,0
+215,446,Product Page,264,0
+215,446,Cart,158,0
+215,446,Checkout,92,0
+215,446,Thank You,290,1
+215,447,Homepage,70,0
+215,447,Product Page,137,0
+215,447,Cart,291,0
+216,448,Homepage,162,0
+216,448,Product Page,220,0
+216,448,Checkout,174,0
+216,448,Thank You,195,1
+217,449,Homepage,41,0
+217,449,Product Page,246,0
+217,449,Checkout,104,0
+217,449,Thank You,261,1
+217,450,Cart,216,0
+217,450,Checkout,32,0
+218,451,Product Page,296,0
+218,451,Cart,239,0
+218,451,Thank You,78,1
+219,452,Homepage,95,0
+219,452,Product Page,165,0
+219,452,Checkout,34,0
+219,453,Cart,112,0
+219,453,Checkout,91,0
+220,454,Homepage,227,0
+220,454,Checkout,224,0
+220,454,Thank You,211,1
+220,455,Homepage,196,0
+220,455,Product Page,12,0
+220,455,Cart,169,0
+220,455,Checkout,276,0
+220,455,Thank You,102,1
+220,456,Homepage,120,0
+220,456,Product Page,181,0
+221,457,Homepage,161,0
+221,457,Cart,90,0
+221,457,Checkout,38,0
+221,458,Cart,238,0
+221,458,Thank You,271,1
+222,459,Product Page,188,0
+222,459,Cart,101,0
+222,459,Checkout,89,0
+222,459,Thank You,211,1
+222,460,Product Page,72,0
+222,460,Thank You,113,1
+222,461,Product Page,68,0
+222,461,Thank You,192,1
+223,462,Cart,278,0
+223,462,Checkout,29,0
+223,463,Homepage,29,0
+223,463,Thank You,64,1
+223,464,Homepage,83,0
+223,464,Product Page,110,0
+223,464,Cart,9,0
+223,464,Checkout,159,0
+223,464,Thank You,220,1
+224,465,Cart,75,0
+224,465,Thank You,219,1
+224,466,Homepage,149,0
+224,466,Thank You,63,1
+224,467,Product Page,107,0
+224,467,Checkout,139,0
+225,468,Product Page,87,0
+225,468,Cart,25,0
+225,468,Checkout,285,0
+225,469,Homepage,11,0
+225,469,Product Page,50,0
+225,469,Cart,61,0
+225,469,Checkout,298,0
+225,469,Thank You,257,1
+225,470,Homepage,56,0
+225,470,Cart,136,0
+225,470,Thank You,123,1
+226,471,Homepage,94,0
+226,471,Cart,25,0
+226,471,Checkout,153,0
+226,471,Thank You,189,1
+226,472,Homepage,9,0
+226,472,Cart,75,0
+226,472,Checkout,92,0
+226,472,Thank You,173,1
+227,473,Homepage,180,0
+227,473,Product Page,98,0
+227,473,Cart,63,0
+227,473,Checkout,210,0
+227,473,Thank You,209,1
+227,474,Homepage,90,0
+227,474,Product Page,62,0
+227,474,Cart,72,0
+227,474,Checkout,35,0
+227,474,Thank You,86,1
+228,475,Homepage,199,0
+228,475,Product Page,188,0
+228,475,Cart,19,0
+228,475,Checkout,71,0
+228,475,Thank You,252,1
+229,476,Checkout,28,0
+229,476,Thank You,37,1
+229,477,Homepage,178,0
+229,477,Cart,270,0
+229,477,Checkout,272,0
+229,477,Thank You,53,1
+230,478,Cart,202,0
+230,478,Checkout,81,0
+230,478,Thank You,290,1
+230,479,Homepage,263,0
+230,479,Product Page,245,0
+231,480,Homepage,128,0
+231,480,Product Page,174,0
+231,480,Checkout,147,0
+231,481,Product Page,286,0
+231,481,Thank You,198,1
+232,482,Homepage,298,0
+232,482,Product Page,234,0
+232,482,Checkout,50,0
+232,483,Homepage,57,0
+232,483,Product Page,211,0
+232,483,Cart,216,0
+232,483,Checkout,23,0
+232,483,Thank You,290,1
+233,484,Homepage,265,0
+233,484,Cart,292,0
+233,485,Product Page,32,0
+233,485,Cart,119,0
+233,485,Checkout,237,0
+233,486,Product Page,236,0
+233,486,Cart,63,0
+233,486,Checkout,54,0
+233,486,Thank You,118,1
+234,487,Product Page,59,0
+234,487,Cart,28,0
+234,487,Checkout,89,0
+234,487,Thank You,257,1
+235,488,Homepage,66,0
+235,488,Product Page,206,0
+235,488,Cart,115,0
+235,488,Checkout,239,0
+235,488,Thank You,102,1
+236,489,Homepage,235,0
+236,489,Cart,239,0
+236,489,Checkout,263,0
+236,489,Thank You,73,1
+236,490,Homepage,265,0
+236,490,Product Page,95,0
+236,490,Cart,93,0
+236,490,Checkout,70,0
+236,490,Thank You,58,1
+236,491,Homepage,132,0
+236,491,Product Page,145,0
+236,491,Cart,208,0
+236,491,Checkout,180,0
+236,491,Thank You,155,1
+237,492,Product Page,267,0
+237,492,Cart,158,0
+237,492,Checkout,285,0
+237,493,Homepage,153,0
+237,493,Product Page,181,0
+237,493,Cart,72,0
+237,493,Thank You,96,1
+238,494,Homepage,297,0
+238,494,Product Page,218,0
+238,494,Cart,278,0
+238,494,Checkout,151,0
+238,495,Homepage,32,0
+238,495,Product Page,33,0
+238,495,Cart,107,0
+238,495,Checkout,141,0
+238,495,Thank You,87,1
+238,496,Homepage,109,0
+238,496,Product Page,282,0
+238,496,Cart,21,0
+238,496,Checkout,188,0
+239,497,Product Page,292,0
+239,497,Thank You,204,1
+239,498,Cart,29,0
+239,498,Checkout,200,0
+239,498,Thank You,203,1
+240,499,Homepage,108,0
+240,499,Product Page,231,0
+240,499,Checkout,120,0
+240,499,Thank You,193,1
+240,500,Product Page,95,0
+240,500,Cart,43,0
+240,500,Thank You,100,1
+241,501,Homepage,224,0
+241,501,Checkout,147,0
+242,502,Product Page,7,0
+242,502,Cart,174,0
+242,502,Checkout,243,0
+242,502,Thank You,84,1
+242,503,Product Page,31,0
+242,503,Cart,159,0
+242,504,Homepage,99,0
+242,504,Product Page,271,0
+242,504,Cart,39,0
+242,504,Checkout,263,0
+242,504,Thank You,86,1
+243,505,Homepage,174,0
+243,505,Product Page,189,0
+243,505,Cart,155,0
+243,505,Checkout,116,0
+243,505,Thank You,276,1
+243,506,Homepage,128,0
+243,506,Product Page,129,0
+243,506,Cart,25,0
+243,506,Checkout,169,0
+243,506,Thank You,200,1
+244,507,Homepage,254,0
+244,507,Product Page,27,0
+244,507,Cart,156,0
+244,507,Checkout,103,0
+244,507,Thank You,169,1
+245,508,Homepage,280,0
+245,508,Product Page,278,0
+245,509,Homepage,114,0
+245,509,Product Page,222,0
+245,510,Product Page,41,0
+245,510,Checkout,83,0
+246,511,Homepage,96,0
+246,511,Product Page,133,0
+246,511,Cart,290,0
+246,511,Checkout,41,0
+246,511,Thank You,299,1
+247,512,Product Page,226,0
+247,512,Cart,166,0
+247,512,Checkout,13,0
+247,512,Thank You,204,1
+248,513,Homepage,37,0
+248,513,Thank You,28,1
+248,514,Homepage,153,0
+248,514,Cart,159,0
+248,515,Cart,200,0
+248,515,Checkout,207,0
+249,516,Product Page,278,0
+249,516,Checkout,117,0
+249,517,Cart,78,0
+249,517,Checkout,157,0
+249,517,Thank You,196,1
+249,518,Product Page,68,0
+249,518,Thank You,26,1
+250,519,Homepage,113,0
+250,519,Product Page,216,0
+250,519,Cart,267,0
+250,519,Checkout,77,0
+250,519,Thank You,87,1
+251,520,Homepage,63,0
+251,520,Cart,97,0
+251,520,Thank You,295,1
+252,521,Homepage,55,0
+252,521,Product Page,106,0
+252,521,Cart,254,0
+252,521,Checkout,174,0
+252,521,Thank You,187,1
+253,522,Homepage,40,0
+253,522,Cart,104,0
+253,522,Checkout,167,0
+254,523,Homepage,166,0
+254,523,Product Page,224,0
+254,523,Cart,91,0
+254,523,Checkout,7,0
+254,523,Thank You,165,1
+254,524,Product Page,189,0
+254,524,Checkout,73,0
+254,524,Thank You,174,1
+255,525,Homepage,94,0
+255,525,Product Page,46,0
+255,525,Cart,148,0
+255,525,Checkout,76,0
+255,525,Thank You,280,1
+255,526,Homepage,43,0
+255,526,Cart,14,0
+255,526,Thank You,264,1
+256,527,Checkout,113,0
+256,527,Thank You,23,1
+256,528,Homepage,192,0
+256,528,Cart,205,0
+256,528,Checkout,119,0
+256,528,Thank You,153,1
+256,529,Homepage,191,0
+256,529,Product Page,262,0
+256,529,Checkout,10,0
+257,530,Product Page,76,0
+257,530,Cart,233,0
+257,530,Thank You,86,1
+257,531,Product Page,252,0
+257,531,Cart,188,0
+257,531,Thank You,25,1
+257,532,Homepage,140,0
+257,532,Product Page,194,0
+257,532,Checkout,124,0
+258,533,Product Page,245,0
+258,533,Cart,237,0
+258,533,Thank You,28,1
+259,534,Homepage,283,0
+259,534,Product Page,296,0
+259,534,Cart,94,0
+259,534,Checkout,197,0
+260,535,Homepage,119,0
+260,535,Product Page,269,0
+260,535,Cart,212,0
+260,535,Checkout,185,0
+260,535,Thank You,181,1
+260,536,Homepage,89,0
+260,536,Product Page,122,0
+260,536,Cart,44,0
+260,536,Checkout,268,0
+260,536,Thank You,148,1
+260,537,Homepage,190,0
+260,537,Product Page,65,0
+260,537,Thank You,122,1
+261,538,Homepage,250,0
+261,538,Product Page,112,0
+261,538,Cart,87,0
+261,538,Checkout,215,0
+261,539,Homepage,70,0
+261,539,Product Page,298,0
+262,540,Homepage,80,0
+262,540,Product Page,33,0
+262,540,Cart,90,0
+262,541,Homepage,150,0
+262,541,Product Page,48,0
+262,541,Cart,115,0
+262,541,Checkout,234,0
+262,542,Homepage,98,0
+262,542,Product Page,266,0
+262,542,Cart,140,0
+262,542,Checkout,90,0
+262,542,Thank You,180,1
+263,543,Product Page,202,0
+263,543,Checkout,72,0
+263,544,Homepage,272,0
+263,544,Product Page,263,0
+264,545,Homepage,277,0
+264,545,Product Page,262,0
+264,545,Cart,65,0
+264,545,Checkout,52,0
+264,545,Thank You,251,1
+264,546,Homepage,225,0
+264,546,Cart,272,0
+264,546,Thank You,220,1
+264,547,Homepage,200,0
+264,547,Product Page,184,0
+264,547,Checkout,299,0
+264,547,Thank You,55,1
+265,548,Homepage,47,0
+265,548,Cart,150,0
+265,548,Checkout,283,0
+265,549,Homepage,271,0
+265,549,Product Page,8,0
+265,549,Cart,197,0
+265,549,Checkout,110,0
+265,549,Thank You,166,1
+266,550,Homepage,138,0
+266,550,Product Page,279,0
+266,550,Cart,221,0
+266,550,Checkout,294,0
+266,551,Product Page,109,0
+266,551,Cart,216,0
+266,551,Checkout,287,0
+266,551,Thank You,290,1
+267,552,Product Page,162,0
+267,552,Cart,300,0
+267,552,Checkout,181,0
+267,553,Homepage,87,0
+267,553,Product Page,56,0
+267,553,Cart,114,0
+267,553,Checkout,265,0
+267,553,Thank You,210,1
+268,554,Product Page,7,0
+268,554,Checkout,51,0
+268,555,Homepage,37,0
+268,555,Checkout,139,0
+268,555,Thank You,118,1
+269,556,Homepage,201,0
+269,556,Thank You,210,1
+269,557,Homepage,229,0
+269,557,Product Page,10,0
+269,557,Checkout,108,0
+269,557,Thank You,270,1
+270,558,Homepage,91,0
+270,558,Product Page,23,0
+270,558,Cart,189,0
+270,559,Homepage,146,0
+270,559,Product Page,209,0
+270,559,Thank You,185,1
+271,560,Homepage,51,0
+271,560,Product Page,286,0
+271,560,Cart,150,0
+271,560,Checkout,291,0
+271,560,Thank You,183,1
+271,561,Homepage,237,0
+271,561,Product Page,211,0
+271,561,Cart,299,0
+271,561,Thank You,7,1
+271,562,Homepage,291,0
+271,562,Product Page,42,0
+271,562,Cart,262,0
+271,562,Checkout,155,0
+272,563,Cart,280,0
+272,563,Thank You,299,1
+272,564,Product Page,129,0
+272,564,Cart,178,0
+272,564,Checkout,239,0
+272,564,Thank You,240,1
+273,565,Homepage,137,0
+273,565,Checkout,39,0
+273,566,Homepage,269,0
+273,566,Product Page,279,0
+273,566,Cart,9,0
+273,566,Checkout,139,0
+273,566,Thank You,132,1
+273,567,Homepage,43,0
+273,567,Product Page,288,0
+273,567,Cart,96,0
+273,567,Checkout,248,0
+274,568,Homepage,260,0
+274,568,Product Page,107,0
+274,568,Cart,125,0
+274,568,Checkout,128,0
+274,569,Homepage,187,0
+274,569,Product Page,84,0
+274,569,Cart,59,0
+274,569,Thank You,66,1
+275,570,Homepage,195,0
+275,570,Product Page,166,0
+275,570,Cart,257,0
+275,570,Checkout,299,0
+275,570,Thank You,145,1
+276,571,Product Page,118,0
+276,571,Cart,300,0
+276,571,Thank You,70,1
+276,572,Checkout,249,0
+276,572,Thank You,281,1
+277,573,Homepage,270,0
+277,573,Product Page,240,0
+277,573,Checkout,166,0
+277,573,Thank You,9,1
+278,574,Homepage,190,0
+278,574,Product Page,137,0
+278,574,Checkout,100,0
+279,575,Product Page,192,0
+279,575,Cart,99,0
+279,575,Checkout,260,0
+279,575,Thank You,222,1
+279,576,Product Page,210,0
+279,576,Cart,148,0
+279,576,Checkout,235,0
+279,577,Product Page,122,0
+279,577,Cart,56,0
+279,577,Thank You,143,1
+280,578,Homepage,9,0
+280,578,Product Page,95,0
+280,578,Cart,220,0
+280,578,Checkout,260,0
+280,578,Thank You,73,1
+281,579,Homepage,208,0
+281,579,Product Page,55,0
+281,579,Cart,88,0
+281,579,Checkout,35,0
+281,580,Cart,54,0
+281,580,Checkout,235,0
+281,580,Thank You,176,1
+281,581,Product Page,181,0
+281,581,Cart,15,0
+281,581,Checkout,215,0
+281,581,Thank You,67,1
+282,582,Product Page,186,0
+282,582,Checkout,171,0
+282,582,Thank You,266,1
+282,583,Homepage,79,0
+282,583,Product Page,90,0
+282,583,Cart,177,0
+282,583,Checkout,220,0
+282,583,Thank You,297,1
+283,584,Homepage,180,0
+283,584,Product Page,121,0
+283,585,Product Page,207,0
+283,585,Cart,143,0
+283,585,Checkout,232,0
+283,585,Thank You,190,1
+284,586,Homepage,125,0
+284,586,Product Page,133,0
+284,586,Cart,45,0
+284,586,Checkout,112,0
+284,586,Thank You,90,1
+284,587,Homepage,18,0
+284,587,Product Page,208,0
+284,587,Cart,273,0
+284,587,Checkout,47,0
+284,587,Thank You,58,1
+284,588,Homepage,163,0
+284,588,Product Page,122,0
+284,588,Checkout,131,0
+284,588,Thank You,150,1
+285,589,Homepage,22,0
+285,589,Product Page,187,0
+285,589,Thank You,171,1
+285,590,Homepage,281,0
+285,590,Product Page,95,0
+285,590,Cart,238,0
+285,590,Checkout,293,0
+285,590,Thank You,227,1
+286,591,Homepage,50,0
+286,591,Cart,231,0
+286,591,Checkout,162,0
+286,591,Thank You,192,1
+286,592,Homepage,272,0
+286,592,Product Page,74,0
+286,592,Cart,181,0
+286,592,Checkout,151,0
+286,592,Thank You,245,1
+286,593,Checkout,158,0
+286,593,Thank You,9,1
+287,594,Homepage,101,0
+287,594,Product Page,215,0
+287,594,Checkout,292,0
+287,594,Thank You,228,1
+287,595,Homepage,117,0
+287,595,Product Page,139,0
+287,595,Cart,45,0
+287,595,Checkout,221,0
+287,595,Thank You,127,1
+288,596,Homepage,40,0
+288,596,Product Page,98,0
+288,596,Cart,74,0
+288,596,Thank You,153,1
+288,597,Checkout,144,0
+288,597,Thank You,256,1
+288,598,Homepage,30,0
+288,598,Cart,278,0
+288,598,Checkout,16,0
+289,599,Cart,69,0
+289,599,Thank You,229,1
+290,600,Homepage,82,0
+290,600,Product Page,12,0
+290,601,Homepage,195,0
+290,601,Product Page,242,0
+290,601,Cart,21,0
+290,601,Checkout,174,0
+290,601,Thank You,46,1
+290,602,Homepage,41,0
+290,602,Product Page,283,0
+290,602,Cart,245,0
+291,603,Homepage,67,0
+291,603,Cart,132,0
+291,603,Checkout,202,0
+292,604,Homepage,53,0
+292,604,Product Page,271,0
+292,604,Checkout,111,0
+292,605,Homepage,286,0
+292,605,Product Page,271,0
+292,605,Cart,67,0
+292,605,Checkout,134,0
+292,605,Thank You,251,1
+293,606,Homepage,62,0
+293,606,Product Page,125,0
+293,606,Cart,227,0
+293,606,Checkout,171,0
+293,607,Product Page,66,0
+293,607,Cart,207,0
+293,608,Homepage,248,0
+293,608,Cart,84,0
+293,608,Thank You,195,1
+294,609,Homepage,178,0
+294,609,Product Page,35,0
+294,609,Checkout,35,0
+295,610,Homepage,254,0
+295,610,Checkout,124,0
+295,610,Thank You,167,1
+295,611,Homepage,188,0
+295,611,Product Page,73,0
+295,611,Checkout,133,0
+295,611,Thank You,25,1
+296,612,Homepage,295,0
+296,612,Product Page,100,0
+296,612,Cart,283,0
+296,612,Checkout,183,0
+296,612,Thank You,170,1
+296,613,Homepage,156,0
+296,613,Product Page,139,0
+296,613,Cart,282,0
+296,613,Checkout,192,0
+296,613,Thank You,237,1
+297,614,Homepage,169,0
+297,614,Product Page,37,0
+297,614,Cart,280,0
+297,614,Checkout,203,0
+297,614,Thank You,102,1
+298,615,Homepage,214,0
+298,615,Product Page,169,0
+298,615,Cart,61,0
+298,615,Checkout,54,0
+298,615,Thank You,272,1
+298,616,Homepage,96,0
+298,616,Product Page,21,0
+298,617,Homepage,55,0
+298,617,Checkout,21,0
+298,617,Thank You,297,1
+299,618,Homepage,41,0
+299,618,Product Page,11,0
+299,618,Cart,111,0
+299,618,Checkout,256,0
+299,618,Thank You,45,1
+299,619,Homepage,34,0
+299,619,Product Page,141,0
+299,619,Cart,275,0
+299,619,Checkout,25,0
+299,619,Thank You,41,1
+299,620,Homepage,56,0
+299,620,Product Page,123,0
+299,620,Cart,277,0
+299,620,Thank You,202,1
+300,621,Product Page,96,0
+300,621,Cart,290,0
+300,621,Thank You,290,1
+301,622,Cart,239,0
+301,622,Thank You,223,1
+301,623,Product Page,286,0
+301,623,Thank You,210,1
+302,624,Product Page,286,0
+302,624,Cart,171,0
+302,624,Checkout,195,0
+302,624,Thank You,216,1
+302,625,Homepage,286,0
+302,625,Product Page,135,0
+302,625,Cart,189,0
+302,625,Checkout,236,0
+302,625,Thank You,234,1
+302,626,Homepage,159,0
+302,626,Product Page,8,0
+302,626,Cart,158,0
+302,626,Checkout,118,0
+302,626,Thank You,114,1
+303,627,Product Page,53,0
+303,627,Cart,24,0
+303,628,Homepage,132,0
+303,628,Product Page,124,0
+303,628,Cart,136,0
+303,628,Checkout,158,0
+303,628,Thank You,52,1
+304,629,Homepage,252,0
+304,629,Product Page,93,0
+304,629,Cart,254,0
+304,629,Checkout,300,0
+304,629,Thank You,53,1
+304,630,Homepage,176,0
+304,630,Cart,183,0
+304,630,Checkout,227,0
+304,630,Thank You,218,1
+304,631,Homepage,200,0
+304,631,Product Page,32,0
+305,632,Product Page,172,0
+305,632,Cart,262,0
+305,633,Homepage,206,0
+305,633,Product Page,233,0
+305,633,Cart,299,0
+306,634,Product Page,153,0
+306,634,Checkout,206,0
+306,635,Homepage,248,0
+306,635,Product Page,297,0
+306,635,Cart,30,0
+306,636,Homepage,74,0
+306,636,Product Page,251,0
+306,636,Cart,291,0
+306,636,Checkout,106,0
+306,636,Thank You,254,1
+307,637,Homepage,41,0
+307,637,Product Page,141,0
+307,637,Thank You,225,1
+307,638,Homepage,221,0
+307,638,Product Page,192,0
+307,638,Checkout,183,0
+307,638,Thank You,102,1
+308,639,Homepage,184,0
+308,639,Product Page,231,0
+308,639,Checkout,79,0
+308,639,Thank You,230,1
+308,640,Product Page,196,0
+308,640,Thank You,84,1
+309,641,Homepage,129,0
+309,641,Thank You,80,1
+309,642,Homepage,161,0
+309,642,Cart,235,0
+309,642,Checkout,246,0
+309,642,Thank You,16,1
+309,643,Homepage,285,0
+309,643,Product Page,252,0
+309,643,Checkout,77,0
+309,643,Thank You,14,1
+310,644,Product Page,35,0
+310,644,Cart,150,0
+310,645,Homepage,243,0
+310,645,Cart,9,0
+310,645,Thank You,39,1
+311,646,Homepage,202,0
+311,646,Product Page,123,0
+311,646,Cart,199,0
+311,646,Checkout,265,0
+311,647,Cart,277,0
+311,647,Checkout,50,0
+312,648,Cart,16,0
+312,648,Checkout,25,0
+312,648,Thank You,131,1
+313,649,Homepage,14,0
+313,649,Product Page,182,0
+313,649,Cart,185,0
+313,649,Checkout,186,0
+313,650,Homepage,203,0
+313,650,Product Page,20,0
+313,650,Cart,289,0
+313,650,Thank You,148,1
+313,651,Product Page,75,0
+313,651,Cart,49,0
+313,651,Thank You,200,1
+314,652,Product Page,83,0
+314,652,Cart,223,0
+314,652,Checkout,164,0
+314,653,Homepage,282,0
+314,653,Product Page,108,0
+314,653,Cart,75,0
+314,653,Checkout,163,0
+314,654,Product Page,294,0
+314,654,Cart,85,0
+314,654,Checkout,167,0
+315,655,Product Page,79,0
+315,655,Cart,20,0
+316,656,Homepage,101,0
+316,656,Product Page,59,0
+316,656,Cart,72,0
+316,656,Checkout,99,0
+316,656,Thank You,18,1
+316,657,Homepage,123,0
+316,657,Product Page,18,0
+316,657,Cart,188,0
+316,657,Thank You,45,1
+317,658,Homepage,203,0
+317,658,Product Page,256,0
+317,658,Cart,247,0
+317,658,Checkout,75,0
+317,658,Thank You,88,1
+317,659,Homepage,12,0
+317,659,Product Page,143,0
+317,659,Thank You,216,1
+317,660,Homepage,95,0
+317,660,Product Page,229,0
+317,660,Thank You,255,1
+318,661,Product Page,26,0
+318,661,Cart,199,0
+318,661,Checkout,165,0
+318,661,Thank You,206,1
+318,662,Homepage,236,0
+318,662,Thank You,238,1
+318,663,Product Page,25,0
+318,663,Checkout,290,0
+319,664,Product Page,230,0
+319,664,Cart,208,0
+319,665,Homepage,155,0
+319,665,Product Page,32,0
+319,665,Cart,269,0
+319,665,Checkout,77,0
+320,666,Homepage,216,0
+320,666,Product Page,170,0
+320,666,Cart,235,0
+320,666,Checkout,17,0
+320,666,Thank You,96,1
+320,667,Homepage,170,0
+320,667,Product Page,88,0
+320,667,Cart,68,0
+320,667,Checkout,51,0
+320,667,Thank You,63,1
+321,668,Homepage,198,0
+321,668,Product Page,286,0
+321,668,Cart,199,0
+321,668,Checkout,27,0
+321,668,Thank You,92,1
+321,669,Homepage,96,0
+321,669,Product Page,31,0
+321,669,Cart,219,0
+321,669,Thank You,162,1
+321,670,Homepage,65,0
+321,670,Cart,72,0
+321,670,Checkout,108,0
+321,670,Thank You,6,1
+322,671,Homepage,283,0
+322,671,Product Page,7,0
+322,671,Cart,257,0
+322,671,Checkout,126,0
+322,672,Product Page,214,0
+322,672,Checkout,231,0
+322,672,Thank You,45,1
+322,673,Product Page,290,0
+322,673,Cart,111,0
+323,674,Homepage,183,0
+323,674,Product Page,23,0
+323,674,Cart,79,0
+324,675,Homepage,218,0
+324,675,Cart,96,0
+324,675,Checkout,87,0
+324,675,Thank You,150,1
+325,676,Homepage,52,0
+325,676,Cart,158,0
+325,676,Checkout,170,0
+325,677,Homepage,154,0
+325,677,Product Page,246,0
+325,677,Checkout,73,0
+325,677,Thank You,67,1
+325,678,Homepage,112,0
+325,678,Cart,34,0
+325,678,Checkout,60,0
+325,678,Thank You,297,1
+326,679,Cart,223,0
+326,679,Checkout,167,0
+326,680,Homepage,271,0
+326,680,Product Page,259,0
+326,680,Cart,257,0
+326,680,Thank You,97,1
+326,681,Homepage,65,0
+326,681,Product Page,17,0
+326,681,Cart,243,0
+327,682,Product Page,216,0
+327,682,Checkout,28,0
+327,683,Homepage,149,0
+327,683,Product Page,135,0
+327,683,Cart,39,0
+327,683,Thank You,162,1
+327,684,Homepage,175,0
+327,684,Cart,179,0
+327,684,Checkout,207,0
+327,684,Thank You,296,1
+328,685,Product Page,174,0
+328,685,Thank You,178,1
+328,686,Homepage,84,0
+328,686,Product Page,240,0
+328,686,Cart,279,0
+328,686,Checkout,176,0
+328,686,Thank You,241,1
+328,687,Homepage,111,0
+328,687,Product Page,300,0
+328,687,Cart,174,0
+328,687,Checkout,186,0
+328,687,Thank You,38,1
+329,688,Homepage,297,0
+329,688,Product Page,204,0
+329,688,Cart,100,0
+329,688,Thank You,64,1
+330,689,Homepage,259,0
+330,689,Product Page,126,0
+330,689,Cart,195,0
+330,689,Thank You,236,1
+330,690,Homepage,196,0
+330,690,Product Page,24,0
+330,690,Cart,108,0
+330,690,Checkout,52,0
+331,691,Product Page,102,0
+331,691,Checkout,179,0
+331,692,Homepage,269,0
+331,692,Product Page,72,0
+331,692,Cart,110,0
+331,692,Checkout,23,0
+331,692,Thank You,240,1
+332,693,Homepage,27,0
+332,693,Cart,49,0
+332,694,Homepage,16,0
+332,694,Product Page,300,0
+332,694,Checkout,164,0
+332,694,Thank You,112,1
+333,695,Product Page,277,0
+333,695,Cart,168,0
+333,695,Thank You,230,1
+333,696,Product Page,85,0
+333,696,Cart,145,0
+334,697,Homepage,110,0
+334,697,Thank You,282,1
+335,698,Product Page,298,0
+335,698,Cart,130,0
+335,698,Checkout,92,0
+335,698,Thank You,41,1
+335,699,Product Page,30,0
+335,699,Cart,71,0
+335,699,Checkout,19,0
+335,699,Thank You,246,1
+336,700,Homepage,32,0
+336,700,Checkout,49,0
+336,701,Homepage,164,0
+336,701,Product Page,175,0
+336,701,Cart,106,0
+336,701,Checkout,278,0
+336,701,Thank You,45,1
+336,702,Homepage,238,0
+336,702,Product Page,163,0
+336,702,Cart,243,0
+336,702,Checkout,245,0
+336,702,Thank You,123,1
+337,703,Product Page,205,0
+337,703,Cart,98,0
+337,703,Thank You,174,1
+338,704,Homepage,184,0
+338,704,Product Page,250,0
+338,704,Cart,241,0
+338,704,Checkout,92,0
+338,704,Thank You,149,1
+338,705,Homepage,212,0
+338,705,Product Page,59,0
+338,705,Cart,171,0
+338,705,Thank You,289,1
+339,706,Cart,210,0
+339,706,Checkout,216,0
+339,707,Product Page,86,0
+339,707,Cart,251,0
+339,707,Thank You,201,1
+339,708,Product Page,225,0
+339,708,Cart,227,0
+340,709,Homepage,298,0
+340,709,Product Page,254,0
+340,709,Cart,63,0
+340,709,Thank You,242,1
+340,710,Homepage,162,0
+340,710,Product Page,212,0
+340,710,Checkout,40,0
+340,710,Thank You,60,1
+340,711,Homepage,116,0
+340,711,Product Page,76,0
+340,711,Cart,5,0
+340,711,Checkout,80,0
+340,711,Thank You,81,1
+341,712,Homepage,167,0
+341,712,Cart,158,0
+341,712,Checkout,296,0
+341,712,Thank You,160,1
+341,713,Homepage,70,0
+341,713,Product Page,155,0
+341,713,Cart,36,0
+341,713,Checkout,194,0
+341,713,Thank You,286,1
+342,714,Cart,61,0
+342,714,Thank You,149,1
+343,715,Cart,167,0
+343,715,Checkout,200,0
+343,715,Thank You,212,1
+344,716,Homepage,76,0
+344,716,Product Page,101,0
+344,716,Cart,289,0
+344,716,Checkout,201,0
+344,716,Thank You,189,1
+344,717,Homepage,10,0
+344,717,Product Page,41,0
+344,717,Cart,13,0
+344,717,Checkout,78,0
+344,717,Thank You,254,1
+345,718,Homepage,222,0
+345,718,Product Page,97,0
+345,718,Cart,237,0
+345,718,Checkout,265,0
+345,718,Thank You,222,1
+345,719,Homepage,8,0
+345,719,Product Page,300,0
+345,719,Cart,260,0
+345,719,Checkout,126,0
+345,719,Thank You,261,1
+345,720,Homepage,295,0
+345,720,Cart,252,0
+345,720,Checkout,193,0
+345,720,Thank You,62,1
+346,721,Homepage,269,0
+346,721,Product Page,45,0
+346,721,Cart,272,0
+346,721,Checkout,50,0
+346,721,Thank You,130,1
+346,722,Homepage,278,0
+346,722,Product Page,10,0
+346,722,Cart,245,0
+346,722,Checkout,237,0
+346,722,Thank You,267,1
+346,723,Homepage,153,0
+346,723,Product Page,90,0
+346,723,Cart,23,0
+346,723,Checkout,160,0
+346,723,Thank You,293,1
+347,724,Product Page,298,0
+347,724,Checkout,31,0
+347,725,Homepage,47,0
+347,725,Product Page,69,0
+347,725,Cart,263,0
+347,725,Thank You,44,1
+348,726,Product Page,12,0
+348,726,Cart,62,0
+348,726,Checkout,94,0
+348,726,Thank You,82,1
+348,727,Homepage,97,0
+348,727,Product Page,275,0
+348,727,Cart,21,0
+348,727,Checkout,180,0
+348,727,Thank You,48,1
+349,728,Product Page,126,0
+349,728,Checkout,230,0
+349,728,Thank You,90,1
+350,729,Homepage,90,0
+350,729,Cart,242,0
+350,729,Checkout,209,0
+350,729,Thank You,248,1
+351,730,Homepage,139,0
+351,730,Product Page,79,0
+351,730,Cart,276,0
+351,730,Checkout,227,0
+351,730,Thank You,11,1
+351,731,Product Page,276,0
+351,731,Cart,26,0
+351,731,Checkout,54,0
+351,731,Thank You,277,1
+352,732,Product Page,141,0
+352,732,Cart,55,0
+352,732,Checkout,135,0
+352,732,Thank You,205,1
+352,733,Homepage,165,0
+352,733,Product Page,285,0
+352,733,Cart,10,0
+352,733,Checkout,9,0
+352,733,Thank You,39,1
+352,734,Homepage,273,0
+352,734,Checkout,58,0
+353,735,Homepage,103,0
+353,735,Product Page,22,0
+353,735,Cart,17,0
+353,735,Checkout,52,0
+353,735,Thank You,34,1
+353,736,Homepage,66,0
+353,736,Cart,49,0
+353,736,Thank You,71,1
+353,737,Homepage,155,0
+353,737,Product Page,244,0
+353,737,Cart,43,0
+353,737,Checkout,237,0
+353,737,Thank You,146,1
+354,738,Homepage,36,0
+354,738,Product Page,200,0
+354,738,Cart,203,0
+354,738,Checkout,175,0
+354,739,Cart,96,0
+354,739,Thank You,230,1
+355,740,Homepage,78,0
+355,740,Product Page,281,0
+355,740,Cart,225,0
+355,740,Checkout,116,0
+355,740,Thank You,59,1
+356,741,Homepage,297,0
+356,741,Cart,133,0
+356,741,Checkout,233,0
+356,741,Thank You,14,1
+356,742,Homepage,82,0
+356,742,Product Page,173,0
+356,742,Cart,205,0
+356,742,Checkout,299,0
+356,742,Thank You,6,1
+357,743,Homepage,6,0
+357,743,Product Page,201,0
+357,743,Cart,251,0
+357,743,Checkout,67,0
+357,743,Thank You,295,1
+357,744,Homepage,51,0
+357,744,Product Page,192,0
+357,744,Cart,278,0
+357,744,Thank You,179,1
+357,745,Cart,108,0
+357,745,Checkout,95,0
+358,746,Product Page,158,0
+358,746,Checkout,204,0
+358,747,Cart,48,0
+358,747,Checkout,229,0
+358,748,Homepage,17,0
+358,748,Product Page,127,0
+358,748,Checkout,255,0
+359,749,Cart,260,0
+359,749,Thank You,278,1
+359,750,Homepage,26,0
+359,750,Product Page,212,0
+359,750,Cart,65,0
+359,750,Checkout,113,0
+359,750,Thank You,272,1
+360,751,Homepage,23,0
+360,751,Product Page,77,0
+360,751,Thank You,255,1
+360,752,Homepage,129,0
+360,752,Checkout,71,0
+361,753,Homepage,238,0
+361,753,Cart,92,0
+361,753,Thank You,37,1
+362,754,Product Page,37,0
+362,754,Checkout,108,0
+363,755,Homepage,169,0
+363,755,Cart,114,0
+363,755,Checkout,28,0
+363,755,Thank You,93,1
+363,756,Homepage,217,0
+363,756,Product Page,91,0
+363,756,Checkout,194,0
+363,756,Thank You,288,1
+364,757,Homepage,85,0
+364,757,Product Page,13,0
+364,757,Cart,254,0
+364,757,Checkout,46,0
+364,757,Thank You,8,1
+365,758,Homepage,248,0
+365,758,Product Page,69,0
+365,758,Cart,110,0
+366,759,Homepage,94,0
+366,759,Product Page,24,0
+366,759,Checkout,97,0
+366,759,Thank You,260,1
+367,760,Cart,219,0
+367,760,Thank You,7,1
+367,761,Homepage,53,0
+367,761,Product Page,190,0
+367,761,Cart,281,0
+367,762,Product Page,32,0
+367,762,Checkout,104,0
+367,762,Thank You,62,1
+368,763,Homepage,191,0
+368,763,Product Page,150,0
+368,763,Cart,112,0
+368,763,Checkout,227,0
+368,763,Thank You,133,1
+369,764,Homepage,85,0
+369,764,Product Page,19,0
+369,764,Cart,253,0
+369,764,Checkout,268,0
+369,764,Thank You,64,1
+369,765,Product Page,171,0
+369,765,Checkout,219,0
+370,766,Homepage,55,0
+370,766,Product Page,126,0
+370,766,Checkout,216,0
+370,766,Thank You,107,1
+371,767,Homepage,253,0
+371,767,Cart,32,0
+371,767,Checkout,228,0
+371,768,Homepage,203,0
+371,768,Product Page,196,0
+371,768,Checkout,74,0
+372,769,Homepage,176,0
+372,769,Cart,70,0
+372,769,Thank You,21,1
+372,770,Product Page,61,0
+372,770,Cart,243,0
+373,771,Homepage,92,0
+373,771,Product Page,300,0
+373,771,Cart,288,0
+373,771,Checkout,122,0
+373,771,Thank You,49,1
+373,772,Homepage,147,0
+373,772,Product Page,12,0
+373,772,Cart,224,0
+373,772,Checkout,131,0
+373,772,Thank You,131,1
+374,773,Homepage,218,0
+374,773,Product Page,27,0
+374,773,Cart,25,0
+374,773,Checkout,245,0
+374,773,Thank You,263,1
+374,774,Checkout,250,0
+374,774,Thank You,55,1
+375,775,Homepage,116,0
+375,775,Product Page,72,0
+375,775,Cart,188,0
+375,775,Checkout,156,0
+375,775,Thank You,127,1
+375,776,Homepage,161,0
+375,776,Checkout,87,0
+376,777,Homepage,212,0
+376,777,Product Page,99,0
+376,777,Cart,194,0
+376,777,Checkout,242,0
+376,777,Thank You,5,1
+376,778,Cart,276,0
+376,778,Checkout,21,0
+376,779,Homepage,46,0
+376,779,Cart,176,0
+376,779,Checkout,33,0
+376,779,Thank You,268,1
+377,780,Homepage,243,0
+377,780,Product Page,25,0
+377,780,Cart,192,0
+377,780,Thank You,192,1
+377,781,Homepage,109,0
+377,781,Cart,75,0
+377,781,Thank You,176,1
+377,782,Homepage,249,0
+377,782,Cart,112,0
+377,782,Thank You,120,1
+378,783,Homepage,37,0
+378,783,Product Page,195,0
+378,783,Cart,181,0
+378,783,Checkout,236,0
+378,784,Homepage,193,0
+378,784,Product Page,38,0
+378,784,Cart,101,0
+378,784,Checkout,239,0
+378,784,Thank You,49,1
+379,785,Homepage,146,0
+379,785,Product Page,62,0
+379,785,Cart,80,0
+379,785,Checkout,259,0
+379,785,Thank You,82,1
+380,786,Cart,282,0
+380,786,Checkout,72,0
+381,787,Homepage,154,0
+381,787,Cart,101,0
+381,787,Checkout,37,0
+381,787,Thank You,16,1
+381,788,Product Page,180,0
+381,788,Cart,172,0
+381,788,Thank You,253,1
+382,789,Homepage,92,0
+382,789,Product Page,138,0
+382,789,Cart,121,0
+382,789,Checkout,252,0
+382,789,Thank You,195,1
+382,790,Homepage,238,0
+382,790,Product Page,90,0
+382,790,Cart,87,0
+382,790,Checkout,279,0
+382,791,Homepage,87,0
+382,791,Product Page,126,0
+382,791,Cart,64,0
+382,791,Thank You,26,1
+383,792,Product Page,99,0
+383,792,Cart,110,0
+383,792,Checkout,292,0
+383,793,Cart,80,0
+383,793,Thank You,195,1
+384,794,Homepage,17,0
+384,794,Cart,212,0
+384,794,Thank You,260,1
+384,795,Homepage,7,0
+384,795,Cart,284,0
+384,795,Checkout,264,0
+385,796,Homepage,294,0
+385,796,Cart,231,0
+385,796,Checkout,178,0
+385,796,Thank You,62,1
+385,797,Homepage,17,0
+385,797,Product Page,210,0
+385,797,Cart,117,0
+385,797,Checkout,233,0
+385,797,Thank You,187,1
+386,798,Homepage,147,0
+386,798,Product Page,105,0
+386,798,Cart,16,0
+386,798,Thank You,47,1
+387,799,Homepage,266,0
+387,799,Product Page,33,0
+387,799,Cart,189,0
+387,799,Checkout,208,0
+387,799,Thank You,80,1
+387,800,Homepage,181,0
+387,800,Product Page,184,0
+387,800,Cart,162,0
+387,800,Checkout,233,0
+387,800,Thank You,292,1
+387,801,Product Page,217,0
+387,801,Checkout,231,0
+388,802,Homepage,49,0
+388,802,Checkout,78,0
+388,802,Thank You,111,1
+388,803,Homepage,50,0
+388,803,Product Page,8,0
+388,803,Cart,214,0
+388,803,Checkout,144,0
+389,804,Cart,295,0
+389,804,Checkout,75,0
+389,804,Thank You,107,1
+389,805,Cart,256,0
+389,805,Checkout,26,0
+389,805,Thank You,159,1
+390,806,Homepage,6,0
+390,806,Cart,83,0
+390,806,Checkout,139,0
+390,806,Thank You,158,1
+390,807,Homepage,130,0
+390,807,Product Page,19,0
+390,807,Cart,66,0
+390,807,Checkout,146,0
+390,807,Thank You,257,1
+390,808,Cart,251,0
+390,808,Thank You,294,1
+391,809,Homepage,137,0
+391,809,Product Page,88,0
+391,809,Checkout,34,0
+391,809,Thank You,79,1
+391,810,Homepage,32,0
+391,810,Product Page,144,0
+391,810,Checkout,189,0
+391,810,Thank You,219,1
+392,811,Homepage,268,0
+392,811,Product Page,104,0
+392,811,Cart,98,0
+392,811,Thank You,53,1
+392,812,Product Page,159,0
+392,812,Cart,143,0
+392,812,Thank You,190,1
+392,813,Cart,78,0
+392,813,Thank You,11,1
+393,814,Product Page,88,0
+393,814,Cart,57,0
+393,814,Checkout,116,0
+393,814,Thank You,84,1
+394,815,Homepage,240,0
+394,815,Product Page,44,0
+394,815,Thank You,64,1
+394,816,Homepage,164,0
+394,816,Product Page,190,0
+394,816,Checkout,76,0
+394,817,Homepage,65,0
+394,817,Product Page,118,0
+394,817,Cart,70,0
+394,817,Checkout,77,0
+394,817,Thank You,121,1
+395,818,Homepage,222,0
+395,818,Product Page,62,0
+395,818,Thank You,44,1
+395,819,Checkout,26,0
+395,819,Thank You,105,1
+396,820,Homepage,245,0
+396,820,Thank You,65,1
+397,821,Homepage,10,0
+397,821,Cart,54,0
+397,822,Product Page,107,0
+397,822,Thank You,99,1
+398,823,Homepage,183,0
+398,823,Product Page,185,0
+398,823,Checkout,87,0
+398,823,Thank You,261,1
+398,824,Homepage,12,0
+398,824,Checkout,275,0
+398,824,Thank You,116,1
+398,825,Product Page,7,0
+398,825,Cart,55,0
+398,825,Thank You,114,1
+399,826,Homepage,186,0
+399,826,Product Page,199,0
+399,826,Cart,222,0
+399,826,Checkout,114,0
+399,826,Thank You,268,1
+399,827,Homepage,68,0
+399,827,Product Page,243,0
+399,827,Checkout,61,0
+399,828,Cart,152,0
+399,828,Checkout,290,0
+399,828,Thank You,25,1
+400,829,Homepage,238,0
+400,829,Product Page,164,0
+400,829,Cart,232,0
+400,829,Checkout,120,0
+401,830,Homepage,193,0
+401,830,Product Page,96,0
+401,830,Cart,11,0
+401,830,Checkout,256,0
+401,830,Thank You,58,1
+401,831,Homepage,210,0
+401,831,Product Page,57,0
+401,831,Cart,91,0
+401,831,Checkout,38,0
+401,831,Thank You,191,1
+401,832,Product Page,211,0
+401,832,Cart,67,0
+401,832,Thank You,124,1
+402,833,Homepage,248,0
+402,833,Product Page,212,0
+402,833,Cart,253,0
+402,833,Checkout,266,0
+402,833,Thank You,147,1
+402,834,Homepage,133,0
+402,834,Checkout,255,0
+402,834,Thank You,259,1
+403,835,Homepage,32,0
+403,835,Cart,39,0
+403,835,Thank You,260,1
+404,836,Product Page,172,0
+404,836,Checkout,83,0
+404,837,Homepage,243,0
+404,837,Product Page,108,0
+404,837,Checkout,155,0
+404,837,Thank You,259,1
+404,838,Homepage,21,0
+404,838,Product Page,225,0
+404,838,Cart,65,0
+404,838,Checkout,201,0
+404,838,Thank You,235,1
+405,839,Homepage,290,0
+405,839,Product Page,160,0
+405,839,Cart,89,0
+405,839,Checkout,256,0
+405,839,Thank You,225,1
+405,840,Product Page,61,0
+405,840,Cart,296,0
+405,840,Checkout,256,0
+406,841,Homepage,139,0
+406,841,Product Page,258,0
+406,841,Cart,198,0
+406,841,Checkout,185,0
+406,841,Thank You,150,1
+406,842,Homepage,70,0
+406,842,Cart,192,0
+406,842,Checkout,183,0
+406,842,Thank You,18,1
+406,843,Homepage,187,0
+406,843,Product Page,215,0
+406,843,Cart,184,0
+406,843,Checkout,33,0
+407,844,Product Page,164,0
+407,844,Cart,48,0
+407,844,Thank You,38,1
+407,845,Homepage,280,0
+407,845,Cart,171,0
+407,845,Checkout,24,0
+407,845,Thank You,240,1
+407,846,Homepage,16,0
+407,846,Product Page,167,0
+407,846,Cart,198,0
+407,846,Checkout,297,0
+407,846,Thank You,204,1
+408,847,Homepage,110,0
+408,847,Checkout,177,0
+408,848,Homepage,228,0
+408,848,Product Page,108,0
+408,848,Cart,259,0
+408,848,Checkout,43,0
+408,848,Thank You,279,1
+409,849,Homepage,120,0
+409,849,Product Page,52,0
+409,849,Cart,53,0
+409,849,Thank You,177,1
+410,850,Checkout,223,0
+410,850,Thank You,112,1
+410,851,Homepage,226,0
+410,851,Product Page,281,0
+410,851,Cart,165,0
+410,851,Checkout,107,0
+411,852,Homepage,269,0
+411,852,Product Page,100,0
+411,852,Cart,300,0
+411,852,Checkout,260,0
+411,852,Thank You,114,1
+411,853,Homepage,191,0
+411,853,Product Page,241,0
+411,853,Cart,80,0
+411,853,Checkout,128,0
+411,853,Thank You,82,1
+412,854,Homepage,109,0
+412,854,Product Page,216,0
+412,854,Checkout,141,0
+412,854,Thank You,151,1
+412,855,Product Page,127,0
+412,855,Cart,63,0
+412,855,Checkout,81,0
+412,856,Homepage,242,0
+412,856,Product Page,253,0
+412,856,Checkout,291,0
+413,857,Homepage,19,0
+413,857,Product Page,137,0
+413,857,Cart,147,0
+413,857,Checkout,286,0
+413,857,Thank You,95,1
+413,858,Homepage,33,0
+413,858,Checkout,47,0
+414,859,Homepage,208,0
+414,859,Product Page,76,0
+414,859,Checkout,125,0
+414,859,Thank You,62,1
+414,860,Cart,259,0
+414,860,Thank You,51,1
+415,861,Cart,204,0
+415,861,Thank You,125,1
+416,862,Homepage,114,0
+416,862,Product Page,145,0
+416,862,Checkout,230,0
+416,863,Homepage,167,0
+416,863,Product Page,284,0
+416,863,Cart,221,0
+416,863,Checkout,248,0
+416,863,Thank You,131,1
+417,864,Cart,193,0
+417,864,Checkout,162,0
+417,864,Thank You,15,1
+417,865,Homepage,134,0
+417,865,Product Page,287,0
+418,866,Homepage,231,0
+418,866,Cart,203,0
+418,866,Checkout,9,0
+418,866,Thank You,206,1
+418,867,Homepage,112,0
+418,867,Product Page,87,0
+418,867,Cart,229,0
+418,867,Checkout,167,0
+419,868,Homepage,216,0
+419,868,Product Page,175,0
+419,868,Cart,221,0
+419,868,Checkout,56,0
+419,868,Thank You,87,1
+419,869,Homepage,285,0
+419,869,Product Page,172,0
+419,869,Cart,237,0
+419,869,Thank You,19,1
+419,870,Product Page,74,0
+419,870,Checkout,6,0
+420,871,Cart,47,0
+420,871,Checkout,61,0
+420,871,Thank You,85,1
+420,872,Product Page,215,0
+420,872,Cart,168,0
+420,872,Thank You,236,1
+421,873,Product Page,172,0
+421,873,Cart,149,0
+421,873,Thank You,106,1
+421,874,Cart,98,0
+421,874,Checkout,206,0
+422,875,Homepage,122,0
+422,875,Cart,50,0
+422,875,Thank You,241,1
+422,876,Homepage,210,0
+422,876,Product Page,224,0
+422,876,Cart,138,0
+423,877,Product Page,295,0
+423,877,Cart,65,0
+424,878,Homepage,102,0
+424,878,Product Page,141,0
+424,878,Cart,152,0
+424,878,Checkout,258,0
+424,878,Thank You,200,1
+425,879,Homepage,97,0
+425,879,Product Page,214,0
+425,879,Cart,79,0
+425,879,Checkout,19,0
+425,879,Thank You,153,1
+426,880,Homepage,194,0
+426,880,Checkout,239,0
+426,880,Thank You,48,1
+426,881,Product Page,170,0
+426,881,Checkout,208,0
+427,882,Cart,136,0
+427,882,Checkout,42,0
+427,882,Thank You,53,1
+427,883,Homepage,125,0
+427,883,Cart,246,0
+427,884,Homepage,263,0
+427,884,Product Page,200,0
+427,884,Checkout,159,0
+427,884,Thank You,207,1
+428,885,Homepage,138,0
+428,885,Product Page,91,0
+428,885,Cart,262,0
+428,885,Checkout,257,0
+428,886,Homepage,276,0
+428,886,Product Page,226,0
+428,886,Checkout,77,0
+428,886,Thank You,138,1
+428,887,Homepage,70,0
+428,887,Cart,260,0
+429,888,Product Page,269,0
+429,888,Cart,165,0
+429,888,Checkout,228,0
+429,888,Thank You,89,1
+429,889,Product Page,32,0
+429,889,Cart,101,0
+429,889,Checkout,81,0
+429,889,Thank You,32,1
+430,890,Homepage,88,0
+430,890,Product Page,244,0
+430,890,Checkout,228,0
+431,891,Homepage,257,0
+431,891,Product Page,62,0
+431,891,Cart,80,0
+431,891,Checkout,68,0
+431,891,Thank You,183,1
+432,892,Homepage,265,0
+432,892,Product Page,144,0
+432,892,Cart,293,0
+433,893,Homepage,297,0
+433,893,Cart,97,0
+433,893,Thank You,218,1
+433,894,Product Page,53,0
+433,894,Checkout,173,0
+433,895,Homepage,206,0
+433,895,Cart,196,0
+434,896,Product Page,19,0
+434,896,Cart,46,0
+434,897,Homepage,173,0
+434,897,Product Page,27,0
+434,897,Cart,236,0
+434,897,Checkout,171,0
+434,897,Thank You,296,1
+434,898,Homepage,149,0
+434,898,Product Page,170,0
+434,898,Cart,33,0
+435,899,Checkout,52,0
+435,899,Thank You,209,1
+435,900,Homepage,15,0
+435,900,Product Page,111,0
+435,900,Checkout,88,0
+435,900,Thank You,203,1
+435,901,Homepage,226,0
+435,901,Product Page,163,0
+435,901,Cart,72,0
+435,901,Checkout,188,0
+435,901,Thank You,54,1
+436,902,Product Page,248,0
+436,902,Checkout,142,0
+436,902,Thank You,293,1
+436,903,Homepage,223,0
+436,903,Product Page,52,0
+436,903,Cart,25,0
+436,903,Checkout,267,0
+436,903,Thank You,179,1
+437,904,Product Page,273,0
+437,904,Cart,47,0
+437,904,Checkout,153,0
+437,905,Homepage,70,0
+437,905,Product Page,158,0
+437,905,Cart,132,0
+437,905,Checkout,272,0
+437,905,Thank You,223,1
+438,906,Homepage,28,0
+438,906,Thank You,267,1
+438,907,Checkout,216,0
+438,907,Thank You,53,1
+439,908,Homepage,262,0
+439,908,Cart,13,0
+439,908,Checkout,63,0
+439,908,Thank You,241,1
+439,909,Homepage,47,0
+439,909,Product Page,218,0
+439,909,Checkout,157,0
+440,910,Homepage,99,0
+440,910,Product Page,45,0
+440,910,Cart,137,0
+440,910,Checkout,59,0
+440,910,Thank You,227,1
+440,911,Homepage,64,0
+440,911,Checkout,11,0
+441,912,Homepage,189,0
+441,912,Product Page,207,0
+441,912,Cart,159,0
+441,912,Checkout,49,0
+441,912,Thank You,69,1
+442,913,Homepage,13,0
+442,913,Product Page,101,0
+443,914,Product Page,128,0
+443,914,Cart,228,0
+443,914,Checkout,280,0
+444,915,Cart,80,0
+444,915,Checkout,247,0
+445,916,Homepage,83,0
+445,916,Product Page,232,0
+445,917,Homepage,155,0
+445,917,Product Page,296,0
+445,917,Cart,205,0
+445,917,Checkout,31,0
+445,917,Thank You,175,1
+446,918,Checkout,258,0
+446,918,Thank You,288,1
+447,919,Checkout,253,0
+447,919,Thank You,267,1
+447,920,Homepage,300,0
+447,920,Product Page,166,0
+447,920,Cart,288,0
+447,920,Checkout,37,0
+447,920,Thank You,142,1
+448,921,Homepage,228,0
+448,921,Product Page,15,0
+448,921,Cart,87,0
+448,921,Checkout,152,0
+448,921,Thank You,103,1
+448,922,Homepage,244,0
+448,922,Product Page,72,0
+448,922,Cart,155,0
+448,922,Checkout,204,0
+448,922,Thank You,218,1
+448,923,Homepage,149,0
+448,923,Product Page,49,0
+448,923,Cart,252,0
+448,923,Checkout,71,0
+449,924,Homepage,217,0
+449,924,Product Page,257,0
+449,924,Checkout,160,0
+450,925,Homepage,188,0
+450,925,Checkout,138,0
+450,925,Thank You,187,1
+451,926,Homepage,177,0
+451,926,Product Page,225,0
+451,926,Checkout,63,0
+451,927,Homepage,137,0
+451,927,Product Page,179,0
+451,927,Checkout,186,0
+451,928,Cart,82,0
+451,928,Thank You,268,1
+452,929,Homepage,239,0
+452,929,Checkout,61,0
+452,930,Homepage,292,0
+452,930,Thank You,26,1
+452,931,Homepage,110,0
+452,931,Product Page,190,0
+453,932,Homepage,83,0
+453,932,Cart,191,0
+453,932,Checkout,176,0
+453,932,Thank You,75,1
+454,933,Homepage,130,0
+454,933,Checkout,247,0
+454,933,Thank You,179,1
+455,934,Homepage,217,0
+455,934,Product Page,189,0
+455,934,Cart,130,0
+455,935,Homepage,75,0
+455,935,Checkout,224,0
+455,935,Thank You,216,1
+456,936,Homepage,10,0
+456,936,Product Page,269,0
+456,936,Cart,40,0
+456,936,Checkout,48,0
+456,936,Thank You,178,1
+456,937,Homepage,206,0
+456,937,Product Page,23,0
+456,937,Checkout,82,0
+456,937,Thank You,299,1
+457,938,Product Page,165,0
+457,938,Cart,181,0
+457,938,Checkout,9,0
+457,938,Thank You,148,1
+458,939,Cart,110,0
+458,939,Checkout,283,0
+458,939,Thank You,231,1
+458,940,Homepage,23,0
+458,940,Product Page,280,0
+458,940,Checkout,176,0
+458,940,Thank You,204,1
+458,941,Homepage,52,0
+458,941,Cart,266,0
+458,941,Thank You,287,1
+459,942,Homepage,128,0
+459,942,Product Page,160,0
+459,942,Checkout,221,0
+459,942,Thank You,263,1
+459,943,Homepage,137,0
+459,943,Cart,264,0
+460,944,Homepage,234,0
+460,944,Thank You,157,1
+460,945,Cart,125,0
+460,945,Checkout,294,0
+461,946,Product Page,298,0
+461,946,Cart,76,0
+461,946,Thank You,198,1
+461,947,Homepage,103,0
+461,947,Cart,189,0
+461,947,Checkout,237,0
+461,948,Product Page,215,0
+461,948,Checkout,46,0
+462,949,Product Page,248,0
+462,949,Checkout,114,0
+463,950,Cart,291,0
+463,950,Checkout,270,0
+463,951,Homepage,255,0
+463,951,Product Page,218,0
+463,951,Cart,88,0
+463,951,Checkout,78,0
+463,951,Thank You,263,1
+464,952,Homepage,238,0
+464,952,Product Page,247,0
+464,952,Cart,21,0
+464,952,Checkout,85,0
+464,952,Thank You,291,1
+465,953,Checkout,61,0
+465,953,Thank You,66,1
+465,954,Homepage,65,0
+465,954,Cart,195,0
+465,954,Checkout,161,0
+465,954,Thank You,196,1
+466,955,Homepage,220,0
+466,955,Cart,29,0
+466,955,Checkout,161,0
+466,955,Thank You,150,1
+466,956,Homepage,67,0
+466,956,Product Page,285,0
+466,956,Checkout,183,0
+467,957,Checkout,298,0
+467,957,Thank You,163,1
+468,958,Homepage,263,0
+468,958,Product Page,240,0
+468,958,Cart,235,0
+468,958,Checkout,234,0
+468,958,Thank You,81,1
+468,959,Homepage,207,0
+468,959,Product Page,178,0
+468,959,Checkout,281,0
+468,959,Thank You,28,1
+468,960,Homepage,292,0
+468,960,Product Page,68,0
+468,960,Cart,291,0
+468,960,Checkout,48,0
+468,960,Thank You,103,1
+469,961,Product Page,248,0
+469,961,Thank You,262,1
+469,962,Homepage,14,0
+469,962,Product Page,145,0
+469,963,Homepage,278,0
+469,963,Product Page,169,0
+469,963,Checkout,210,0
+470,964,Homepage,179,0
+470,964,Checkout,228,0
+470,965,Homepage,167,0
+470,965,Cart,200,0
+470,965,Checkout,136,0
+470,966,Homepage,282,0
+470,966,Thank You,91,1
+471,967,Homepage,83,0
+471,967,Product Page,162,0
+471,967,Cart,213,0
+471,968,Homepage,18,0
+471,968,Cart,34,0
+471,968,Thank You,157,1
+472,969,Product Page,216,0
+472,969,Cart,170,0
+472,970,Homepage,127,0
+472,970,Cart,126,0
+472,970,Checkout,257,0
+472,970,Thank You,265,1
+473,971,Homepage,288,0
+473,971,Product Page,213,0
+473,971,Cart,38,0
+473,971,Checkout,252,0
+473,971,Thank You,19,1
+473,972,Homepage,289,0
+473,972,Product Page,69,0
+473,972,Cart,160,0
+473,972,Checkout,295,0
+473,972,Thank You,213,1
+473,973,Homepage,130,0
+473,973,Product Page,280,0
+473,973,Cart,221,0
+473,973,Checkout,289,0
+473,973,Thank You,236,1
+474,974,Cart,90,0
+474,974,Checkout,5,0
+475,975,Homepage,113,0
+475,975,Product Page,266,0
+475,975,Cart,149,0
+475,975,Checkout,28,0
+475,975,Thank You,87,1
+476,976,Homepage,207,0
+476,976,Cart,67,0
+476,977,Product Page,112,0
+476,977,Cart,263,0
+476,977,Thank You,167,1
+476,978,Homepage,169,0
+476,978,Product Page,179,0
+476,978,Cart,112,0
+476,978,Checkout,240,0
+477,979,Homepage,248,0
+477,979,Product Page,7,0
+477,979,Cart,9,0
+477,979,Thank You,93,1
+477,980,Homepage,280,0
+477,980,Product Page,20,0
+477,980,Cart,232,0
+477,980,Checkout,68,0
+477,980,Thank You,185,1
+477,981,Homepage,68,0
+477,981,Product Page,241,0
+477,981,Cart,194,0
+477,981,Checkout,103,0
+477,981,Thank You,232,1
+478,982,Homepage,188,0
+478,982,Cart,103,0
+478,982,Checkout,51,0
+479,983,Product Page,23,0
+479,983,Cart,148,0
+479,983,Checkout,257,0
+479,983,Thank You,112,1
+479,984,Product Page,61,0
+479,984,Checkout,147,0
+479,985,Homepage,70,0
+479,985,Product Page,38,0
+479,985,Cart,70,0
+479,985,Checkout,137,0
+479,985,Thank You,296,1
+480,986,Homepage,291,0
+480,986,Product Page,237,0
+480,986,Cart,6,0
+480,986,Thank You,223,1
+481,987,Cart,213,0
+481,987,Checkout,145,0
+481,988,Checkout,258,0
+481,988,Thank You,190,1
+481,989,Homepage,147,0
+481,989,Product Page,220,0
+482,990,Homepage,46,0
+482,990,Product Page,297,0
+482,990,Cart,17,0
+482,990,Checkout,120,0
+482,990,Thank You,221,1
+482,991,Product Page,89,0
+482,991,Thank You,173,1
+482,992,Homepage,226,0
+482,992,Product Page,17,0
+482,992,Checkout,176,0
+482,992,Thank You,133,1
+483,993,Product Page,179,0
+483,993,Checkout,32,0
+484,994,Homepage,233,0
+484,994,Checkout,68,0
+484,994,Thank You,48,1
+484,995,Homepage,165,0
+484,995,Checkout,38,0
+485,996,Homepage,159,0
+485,996,Checkout,226,0
+486,997,Homepage,155,0
+486,997,Thank You,200,1
+487,998,Checkout,124,0
+487,998,Thank You,10,1
+487,999,Homepage,18,0
+487,999,Product Page,237,0
+487,999,Cart,269,0
+487,999,Checkout,173,0
+487,999,Thank You,103,1
+488,1000,Homepage,104,0
+488,1000,Thank You,298,1
+489,1001,Product Page,100,0
+489,1001,Cart,129,0
+489,1001,Checkout,75,0
+489,1001,Thank You,27,1
+490,1002,Cart,188,0
+490,1002,Checkout,164,0
+490,1002,Thank You,282,1
+491,1003,Cart,180,0
+491,1003,Checkout,154,0
+491,1003,Thank You,193,1
+492,1004,Homepage,291,0
+492,1004,Product Page,32,0
+492,1004,Cart,221,0
+493,1005,Homepage,179,0
+493,1005,Product Page,101,0
+493,1005,Thank You,248,1
+493,1006,Homepage,219,0
+493,1006,Product Page,173,0
+493,1006,Cart,88,0
+493,1006,Checkout,58,0
+493,1006,Thank You,237,1
+494,1007,Homepage,243,0
+494,1007,Product Page,114,0
+494,1007,Cart,127,0
+494,1007,Checkout,251,0
+494,1007,Thank You,174,1
+495,1008,Homepage,10,0
+495,1008,Product Page,42,0
+495,1008,Cart,188,0
+495,1008,Checkout,20,0
+495,1008,Thank You,289,1
+495,1009,Product Page,230,0
+495,1009,Cart,104,0
+495,1010,Homepage,150,0
+495,1010,Cart,94,0
+495,1010,Checkout,117,0
+495,1010,Thank You,139,1
+496,1011,Homepage,105,0
+496,1011,Product Page,16,0
+496,1011,Cart,95,0
+496,1012,Homepage,199,0
+496,1012,Cart,61,0
+496,1012,Checkout,178,0
+496,1012,Thank You,112,1
+496,1013,Product Page,92,0
+496,1013,Cart,274,0
+496,1013,Checkout,227,0
+496,1013,Thank You,38,1
+497,1014,Homepage,277,0
+497,1014,Product Page,198,0
+497,1014,Thank You,196,1
+498,1015,Homepage,81,0
+498,1015,Product Page,172,0
+498,1015,Cart,131,0
+498,1015,Checkout,32,0
+498,1015,Thank You,148,1
+498,1016,Homepage,46,0
+498,1016,Checkout,245,0
+498,1016,Thank You,38,1
+499,1017,Homepage,169,0
+499,1017,Product Page,196,0
+499,1017,Cart,274,0
+499,1017,Checkout,252,0
+499,1017,Thank You,258,1
+500,1018,Homepage,111,0
+500,1018,Cart,117,0
+500,1018,Checkout,108,0
+500,1018,Thank You,236,1
+500,1019,Product Page,222,0
+500,1019,Checkout,198,0
+500,1019,Thank You,297,1
