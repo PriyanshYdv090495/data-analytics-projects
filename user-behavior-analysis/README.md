@@ -14,10 +14,14 @@ Analyzed user interaction data from a simulated e-commerce site to identify traf
 - Bounce rate is high, indicating many single-page visits.  
 
 ## Visuals
-*(Add screenshots here once saved from Jupyter)*  
-1. Most Visited Pages  
-2. Funnel Drop Off  
-3. Engagement Heatmap  
+### 1️⃣ Most Visited Pages
+![Most Visited Pages](most_visited_pages.png)  
+
+### 2️⃣ Funnel Drop Off
+![Funnel Drop Off](funnel_drop_off.png)  
+
+### 3️⃣ Engagement Heatmap
+![Heatmap](heatmap_time_spent.png)  
 
 ## Tools
 Python (Pandas, Matplotlib, Seaborn), Jupyter Notebook, GitHub
